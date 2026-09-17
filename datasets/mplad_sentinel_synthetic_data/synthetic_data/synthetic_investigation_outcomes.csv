@@ -1,0 +1,6 @@
+outcome_id,case_id,outcome_type,outcome_summary,resolved_at,synthetic
+OUT-0001,CASE-0001,EXPLAINED,"Field verification found a documented, legitimate explanation for the flagged signal; no further action required.",2026-04-14,TRUE
+OUT-0002,CASE-0002,REQUIRES_ACTION,Verification surfaced a genuine discrepancy against supporting records; referred for corrective follow-up.,2026-06-17,TRUE
+OUT-0003,CASE-0003,ESCALATED,Findings were inconclusive at the district level and the case was escalated for higher-level review.,2026-07-09,TRUE
+OUT-0004,CASE-0004,INCONCLUSIVE,Available evidence was insufficient to confirm or rule out the flagged concern; case held pending further records.,2026-04-02,TRUE
+OUT-0005,CASE-0005,EXPLAINED,"Field verification found a documented, legitimate explanation for the flagged signal; no further action required.",2026-07-03,TRUE

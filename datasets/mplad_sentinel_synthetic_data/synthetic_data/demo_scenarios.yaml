@@ -1,0 +1,51 @@
+# MPLAD Sentinel -- Demo Scenarios
+# All scenario data below is SYNTHETIC_DEMO except explicitly marked REAL_MPLADS fields
+# (work_id, risk_score, risk_band, lifecycle_stage, primary_risk_reason).
+
+scenarios:
+  - id: SCEN-1
+    title: "Citizen need to MP recommendation"
+    data_origin: SYNTHETIC_DEMO
+    steps:
+      - "Citizen need logged: CREQ-0013 (Solid waste management)"
+      - "Linked (for demo only) to real Work ID WS/MP446/2023-2024/122215 in the same state/constituency"
+      - "MP team drafts recommendation REC-0020, priority MEDIUM"
+      - "MP decision recorded: PENDING"
+
+  - id: SCEN-2
+    title: "High/Critical risk to DM investigation"
+    data_origin: "MIXED -- risk fields REAL_MPLADS, workflow fields SYNTHETIC_DEMO"
+    steps:
+      - "REAL_MPLADS Work ID WS/MP383/2024-2025/11215 carries risk_band=CRITICAL (Stage 2.1.1/2.2.1, unmodified)"
+      - "Sentinel flag opens synthetic investigation case CASE-0001"
+      - "Case assigned to synthetic DM/DA user USR-0008"
+
+  - id: SCEN-3
+    title: "Risk explanation to evidence verification"
+    data_origin: SYNTHETIC_DEMO
+    steps:
+      - "Case CASE-0001 explanation names the real primary_risk_reason from Decision Intelligence"
+      - "Synthetic evidence metadata (documents, photographs, inspection notes) logged against the case"
+
+  - id: SCEN-4
+    title: "Investigation to outcome"
+    data_origin: SYNTHETIC_DEMO
+    steps:
+      - "Case CASE-0001 reaches outcome EXPLAINED"
+      - "Outcome is a demonstration finding only -- not an actual government determination"
+
+  - id: SCEN-5
+    title: "Feedback to future model improvement"
+    data_origin: SYNTHETIC_DEMO
+    steps:
+      - "Feedback FB-0001 (ALERT_USEFULNESS) logged against a resolved case"
+      - "Feedback is stored as a potential future training/evaluation dataset -- no automatic retraining occurs"
+
+  - id: SCEN-6
+    title: "Synthetic spatial demonstration"
+    data_origin: SYNTHETIC_DEMO
+    steps:
+      - "Scenario SPAT-0001 pairs real Work ID WS/MP383/2024-2025/11215 with synthetic asset AST-0171"
+      - "simulated_distance_km = 853.62 -- SIMULATED / SYNTHETIC DEMONSTRATION CONTEXT only"
+      - "UI must display: 'Demonstration spatial context - synthetic coordinates', never a real-GIS claim"
+

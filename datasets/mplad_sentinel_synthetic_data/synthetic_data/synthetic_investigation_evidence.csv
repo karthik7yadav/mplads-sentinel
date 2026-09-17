@@ -1,0 +1,22 @@
+evidence_id,case_id,evidence_type,description,uploaded_by,uploaded_at,synthetic
+EVID-0001,CASE-0001,invoice_reference,Invoice reference metadata logged for reconciliation against sanctioned amount.,USR-0008,2026-03-17,TRUE
+EVID-0002,CASE-0001,measurement_record,Physical measurement record logged to compare against the reported work progress.,USR-0008,2026-03-30,TRUE
+EVID-0003,CASE-0001,photograph,Site photograph metadata recorded during field visit; no personal data attached.,USR-0008,2026-04-06,TRUE
+EVID-0004,CASE-0002,document,Reference document metadata logged for cross-check against the flagged figure.,USR-0009,2026-05-22,TRUE
+EVID-0005,CASE-0002,work_order,Work order reference metadata logged for verification against expenditure records.,USR-0009,2026-05-30,TRUE
+EVID-0006,CASE-0002,inspection_note,Field inspection note summarising observations relevant to the flagged signal.,USR-0009,2026-06-07,TRUE
+EVID-0007,CASE-0003,inspection_note,Field inspection note summarising observations relevant to the flagged signal.,USR-0010,2026-06-19,TRUE
+EVID-0008,CASE-0003,invoice_reference,Invoice reference metadata logged for reconciliation against sanctioned amount.,USR-0010,2026-06-28,TRUE
+EVID-0009,CASE-0003,work_order,Work order reference metadata logged for verification against expenditure records.,USR-0010,2026-07-01,TRUE
+EVID-0010,CASE-0004,invoice_reference,Invoice reference metadata logged for reconciliation against sanctioned amount.,USR-0011,2026-03-18,TRUE
+EVID-0011,CASE-0004,inspection_note,Field inspection note summarising observations relevant to the flagged signal.,USR-0011,2026-03-24,TRUE
+EVID-0012,CASE-0004,work_order,Work order reference metadata logged for verification against expenditure records.,USR-0011,2026-03-26,TRUE
+EVID-0013,CASE-0005,invoice_reference,Invoice reference metadata logged for reconciliation against sanctioned amount.,USR-0012,2026-06-15,TRUE
+EVID-0014,CASE-0005,document,Reference document metadata logged for cross-check against the flagged figure.,USR-0012,2026-06-21,TRUE
+EVID-0015,CASE-0005,measurement_record,Physical measurement record logged to compare against the reported work progress.,USR-0012,2026-06-28,TRUE
+EVID-0016,CASE-0006,photograph,Site photograph metadata recorded during field visit; no personal data attached.,USR-0013,2026-04-30,TRUE
+EVID-0017,CASE-0006,document,Reference document metadata logged for cross-check against the flagged figure.,USR-0013,2026-05-13,TRUE
+EVID-0018,CASE-0007,invoice_reference,Invoice reference metadata logged for reconciliation against sanctioned amount.,USR-0014,2026-04-15,TRUE
+EVID-0019,CASE-0007,document,Reference document metadata logged for cross-check against the flagged figure.,USR-0014,2026-04-30,TRUE
+EVID-0020,CASE-0008,measurement_record,Physical measurement record logged to compare against the reported work progress.,USR-0015,2026-04-29,TRUE
+EVID-0021,CASE-0008,document,Reference document metadata logged for cross-check against the flagged figure.,USR-0015,2026-05-06,TRUE

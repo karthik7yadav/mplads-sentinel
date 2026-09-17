@@ -1,0 +1,8 @@
+feedback_id,case_id,request_id,feedback_type,feedback_text,submitted_by,rating,submitted_at,synthetic
+FB-0001,CASE-0001,,ALERT_USEFULNESS,The flagged signal matched what field verification found -- the alert correctly pointed the team to a real discrepancy worth checking.,USR-0019,3,2026-04-19,TRUE
+FB-0002,CASE-0002,,ALERT_USEFULNESS,"On review, the flagged figure turned out to be a normal variation for this category of work; the alert was a false positive in this instance.",USR-0020,3,2026-06-19,TRUE
+FB-0003,CASE-0003,,EVIDENCE_RESOLUTION,Uploaded documentation fully resolved the concern once cross-checked against the invoice reference.,USR-0021,4,2026-07-13,TRUE
+FB-0004,CASE-0004,,EVIDENCE_RESOLUTION,The evidence collected was insufficient on its own; a follow-up site visit was needed to reach a conclusion.,USR-0019,2,2026-04-06,TRUE
+FB-0005,CASE-0005,,DATA_QUALITY,The underlying issue was a data-quality gap (missing sanction record) rather than an actual irregularity.,USR-0020,4,2026-07-07,TRUE
+FB-0006,,,ALERT_USEFULNESS,The suggested work type matched the actual community need well once the MP team reviewed it in person.,USR-0019,4,2026-08-20,TRUE
+FB-0007,,,EXPLANATION_CLARITY,The recommendation draft reasoning was easy to follow when presenting the case to the MP for a decision.,USR-0020,3,2026-07-17,TRUE

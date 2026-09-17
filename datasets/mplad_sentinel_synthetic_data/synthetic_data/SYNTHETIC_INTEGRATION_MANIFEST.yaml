@@ -1,0 +1,122 @@
+# MPLAD Sentinel -- Synthetic Application/Demo Data Layer -- Integration Manifest
+
+source_packages:
+  - name: stage2_2_1_decision_intelligence_coverage
+    files_used:
+      - decision_intelligence.csv   # 72,675 rows -- authoritative source for demo_work_registry.csv
+    role: "Authoritative REAL_MPLADS source. Read-only. Never modified."
+  - name: stage2_1_1_output
+    files_used: []   # not directly read by this generator; decision_intelligence.csv already
+                       # carries through everything this layer needs (risk score, band, lifecycle,
+                       # primary/secondary component, primary reason). Included here for completeness
+                       # of the frozen pipeline this package sits above.
+    role: "Frozen risk engine, upstream of Stage 2.2.1. Not touched by this package."
+
+authoritative_fields_used:
+  - work_id
+  - state
+  - constituency
+  - work_category
+  - lifecycle_mode
+  - overall_risk
+  - risk_band
+  - primary_risk_component
+  - secondary_risk_component
+  - primary_reason_title
+  - recommended_amount
+  - sanctioned_amount
+  - total_expenditure
+
+synthetic_tables:
+  - table: demo_work_registry.csv
+    primary_key: work_id
+    provenance: REAL_MPLADS (rows), SYNTHETIC_DEMO (usage context label only)
+    row_count: 14
+  - table: synthetic_users.csv
+    primary_key: user_id
+    provenance: SYNTHETIC_DEMO
+    row_count: 21
+  - table: synthetic_citizen_requests.csv
+    primary_key: request_id
+    foreign_keys:
+      - {field: linked_work_id, references: demo_work_registry.work_id, nullable: true}
+    provenance: SYNTHETIC_DEMO
+    row_count: 130
+  - table: synthetic_work_recommendations.csv
+    primary_key: recommendation_id
+    foreign_keys:
+      - {field: request_id, references: synthetic_citizen_requests.request_id, nullable: false}
+      - {field: work_id, references: demo_work_registry.work_id, nullable: true}
+    provenance: SYNTHETIC_DEMO
+    row_count: 36
+  - table: synthetic_asset_registry.csv
+    primary_key: asset_id
+    provenance: SYNTHETIC_DEMO
+    row_count: 200
+  - table: synthetic_spatial_scenarios.csv
+    primary_key: scenario_id
+    foreign_keys:
+      - {field: work_id, references: demo_work_registry.work_id, nullable: false}
+      - {field: asset_id, references: synthetic_asset_registry.asset_id, nullable: false}
+    provenance: SYNTHETIC_DEMO
+    row_count: 24
+    limitations: "synthetic_reference_lat/lon and synthetic_asset_lat/lon are both fully synthetic; simulated_distance_km must never be presented as a real measured GIS distance."
+  - table: synthetic_vendor_reference.csv
+    primary_key: vendor_id
+    provenance: SYNTHETIC_DEMO
+    row_count: 30
+    limitations: "Contextual only. Not an official blacklist. Must never be joined into risk score/band computation."
+  - table: synthetic_investigation_cases.csv
+    primary_key: case_id
+    foreign_keys:
+      - {field: work_id, references: demo_work_registry.work_id, nullable: false}
+      - {field: assigned_to, references: synthetic_users.user_id, nullable: true}
+    provenance: "MIXED -- risk_score/risk_band/lifecycle_stage/primary_risk_reason are REAL_MPLADS; workflow_stage/assigned_to/created_at/status are SYNTHETIC_DEMO"
+    row_count: 8
+  - table: synthetic_investigation_evidence.csv
+    primary_key: evidence_id
+    foreign_keys:
+      - {field: case_id, references: synthetic_investigation_cases.case_id, nullable: false}
+      - {field: uploaded_by, references: synthetic_users.user_id, nullable: true}
+    provenance: SYNTHETIC_DEMO
+    row_count: 21
+    limitations: "Metadata only -- no fabricated official documents."
+  - table: synthetic_investigation_outcomes.csv
+    primary_key: outcome_id
+    foreign_keys:
+      - {field: case_id, references: synthetic_investigation_cases.case_id, nullable: false}
+    provenance: SYNTHETIC_DEMO
+    row_count: 5
+    limitations: "Demonstration outcomes only -- never actual government findings. 3 of 8 cases remain open/without an outcome by design."
+  - table: synthetic_feedback.csv
+    primary_key: feedback_id
+    foreign_keys:
+      - {field: case_id, references: synthetic_investigation_cases.case_id, nullable: true}
+      - {field: request_id, references: synthetic_citizen_requests.request_id, nullable: true}
+      - {field: submitted_by, references: synthetic_users.user_id, nullable: true}
+    provenance: SYNTHETIC_DEMO
+    row_count: 7
+    limitations: "Framed as future training/evaluation input only -- no automatic retraining implied."
+  - table: demo_scenarios.yaml
+    primary_key: id
+    provenance: SYNTHETIC_DEMO
+    row_count: 6
+
+validation_status:
+  script: validate_synthetic_data.py
+  result: "65/65 checks passed"
+  report: SYNTHETIC_DATA_VALIDATION.md
+
+limitations:
+  - "PRE_SANCTION lifecycle stage has no LOW or CRITICAL risk_band rows anywhere in the 72,675-row authoritative dataset -- the registry cannot and does not include those combinations."
+  - "Only 4 rows in the entire authoritative dataset have Data quality/coverage uncertainty as primary_risk_component; both registry rows with blank state/constituency (WS/MP446/2023-2024/122215, WS/MP18019/2025-2026/216372) fall in this thin-data category and are used as deliberate edge cases for the blank-geography consistency rule."
+  - "~31% of all 72,675 authoritative rows have blank state/constituency/category/description; the registry intentionally favours rows with complete geography except for the two edge cases above."
+  - "No official planned/expected completion date exists anywhere in the source data, real or synthetic -- no 'delay' is ever computed or claimed."
+  - "Real MPLADS GIS coordinates do not exist in the source files at all -- synthetic_spatial_scenarios.csv is 100% synthetic coordinates by necessity, not by simplification."
+
+deterministic_generation:
+  seed: 20260907
+  reference_date: "2026-09-07"
+  verified: "Two independent runs of generate_synthetic_data.py produce byte-identical output (diff -rq, 0 differences)."
+deterministic_validation:
+  verified: "Two independent runs of validate_synthetic_data.py produce an identical SYNTHETIC_DATA_VALIDATION.md (SHA-256 match)."

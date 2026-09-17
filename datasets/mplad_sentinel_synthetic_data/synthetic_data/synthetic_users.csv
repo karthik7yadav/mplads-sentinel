@@ -1,0 +1,22 @@
+user_id,role,display_name,state,constituency,synthetic
+USR-0001,MP_TEAM,MP Team Member 1,Bihar,,TRUE
+USR-0002,MP_TEAM,MP Team Member 2,Karnataka,,TRUE
+USR-0003,MP_TEAM,MP Team Member 3,Madhya Pradesh,,TRUE
+USR-0004,MP_TEAM,MP Team Member 4,Maharashtra,,TRUE
+USR-0005,MP_TEAM,MP Team Member 5,Rajasthan,,TRUE
+USR-0006,MP_TEAM,MP Team Member 6,Tamil Nadu,,TRUE
+USR-0007,MP_TEAM,MP Team Member 7,Uttar Pradesh,,TRUE
+USR-0008,DM_DA,District Authority Officer 1,Rajasthan,RAJSAMAND,TRUE
+USR-0009,DM_DA,District Authority Officer 2,Rajasthan,JHUNJHUNU,TRUE
+USR-0010,DM_DA,District Authority Officer 3,Bihar,JHANJHARPUR,TRUE
+USR-0011,DM_DA,District Authority Officer 4,Maharashtra,AMRAVATI(SC),TRUE
+USR-0012,DM_DA,District Authority Officer 5,Tamil Nadu,ERODE,TRUE
+USR-0013,DM_DA,District Authority Officer 6,Madhya Pradesh,MANDSOUR,TRUE
+USR-0014,DM_DA,District Authority Officer 7,Uttar Pradesh,JAUNPUR,TRUE
+USR-0015,DM_DA,District Authority Officer 8,Tamil Nadu,VIRUDHUNAGAR,TRUE
+USR-0016,DM_DA,District Authority Officer 9,Karnataka,HAVERI,TRUE
+USR-0017,DM_DA,District Authority Officer 10,Madhya Pradesh,GUNA,TRUE
+USR-0018,DM_DA,District Authority Officer 11,Tamil Nadu,ARAKKONAM,TRUE
+USR-0019,MOSPI_ADMIN,MoSPI Monitoring Officer 1,,,TRUE
+USR-0020,MOSPI_ADMIN,MoSPI Monitoring Officer 2,,,TRUE
+USR-0021,MOSPI_ADMIN,MoSPI Monitoring Officer 3,,,TRUE

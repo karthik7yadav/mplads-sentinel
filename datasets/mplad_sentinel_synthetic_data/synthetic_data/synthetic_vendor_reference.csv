@@ -1,0 +1,31 @@
+vendor_id,vendor_name,state,status,works_count,note,synthetic
+VEND-001,Shakti Infra Projects,Bihar,ACTIVE,9,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-002,Shakti Builders,Maharashtra,UNDER_REVIEW,18,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-003,Nav Constructions,Bihar,FLAGGED_FOR_CONTEXT,13,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-004,Rajdhani Engineering Works,Tamil Nadu,ACTIVE,38,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-005,Vikas Infra Projects,Karnataka,ACTIVE,1,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-006,Uday Engineering Works,Punjab,ACTIVE,29,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-007,Sai Enterprises,Tamil Nadu,ACTIVE,3,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-008,Sai Engineering Works,Kerala,ACTIVE,13,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-009,Vikas Builders,Punjab,ACTIVE,35,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-010,Bharat Contractors,Madhya Pradesh,UNDER_REVIEW,19,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-011,Bharat Engineering Works,Uttar Pradesh,FLAGGED_FOR_CONTEXT,22,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-012,Jai Infra Projects,Uttar Pradesh,ACTIVE,3,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-013,Om Constructions,Punjab,UNDER_REVIEW,40,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-014,Bharat Constructions,Gujarat,ACTIVE,34,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-015,Vikas Engineering Works,Uttar Pradesh,ACTIVE,2,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-016,Om Contractors,Uttar Pradesh,ACTIVE,18,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-017,Shakti Engineering Works,Uttar Pradesh,ACTIVE,2,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-018,Vikas Enterprises,Tamil Nadu,ACTIVE,18,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-019,Shree Constructions,Kerala,UNDER_REVIEW,30,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-020,Rajdhani Builders,Karnataka,ACTIVE,8,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-021,Jai Enterprises,Maharashtra,ACTIVE,16,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-022,Jai Constructions,Bihar,ACTIVE,13,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-023,Shakti Contractors,Karnataka,ACTIVE,39,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-024,Vikas Contractors,Punjab,ACTIVE,5,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-025,Rajdhani Constructions,Karnataka,ACTIVE,3,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-026,Nav Enterprises,Tamil Nadu,ACTIVE,13,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-027,Sai Contractors,Uttar Pradesh,ACTIVE,11,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-028,Nav Contractors,Bihar,FLAGGED_FOR_CONTEXT,27,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-029,Nav Engineering Works,West Bengal,UNDER_REVIEW,10,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE
+VEND-030,Shakti Constructions,Maharashtra,UNDER_REVIEW,5,"Contextual reference only. NOT an official blacklist. Does not modify risk score, risk band, or risk engine output.",TRUE

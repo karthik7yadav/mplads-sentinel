@@ -1,0 +1,28 @@
+[1] Exactly one row per canonical Work ID: PASS -- 72675 rows, 72675 unique
+[3] No invented / dropped Work IDs: PASS -- invented=0, dropped=0
+[4] overall_risk unchanged vs Stage 2.2: PASS -- 0 differences
+[4] risk_band unchanged vs Stage 2.2: PASS -- 0 differences
+[4] lifecycle_mode unchanged vs Stage 2.2: PASS -- 0 differences
+[4] primary_risk_component unchanged vs Stage 2.2: PASS -- 0 differences
+[4] secondary_risk_component unchanged vs Stage 2.2: PASS -- 0 differences
+[5] overall_risk numerically identical to risk_scores.csv: PASS -- max abs diff = 3.552713678800501e-15
+[6] risk_band identical to risk_scores.csv: PASS -- 0 mismatches
+[7] lifecycle_mode identical to risk_features.risk_mode: PASS -- 0 mismatches
+[8] Component contributions / technical_* fields unchanged: PASS -- 0 total differences across ['primary_risk_component', 'secondary_risk_component', 'technical_signal', 'technical_metric', 'technical_value', 'technical_threshold', 'technical_component', 'technical_component_contribution']
+[9] Only ML-primary explanation text columns changed vs Stage 2.2: PASS -- changed=['primary_reason_summary', 'recommended_verification', 'recommended_action_steps'], unexpected=set()
+[10] 'why_it_matters' changes confined to ML-primary rows: PASS -- 0 changed rows, 0 outside ML-primary set
+[10] 'recommended_action_steps' changes confined to ML-primary rows: PASS -- 3815 changed rows, 0 outside ML-primary set
+[10] 'recommended_verification' changes confined to ML-primary rows: PASS -- 3815 changed rows, 0 outside ML-primary set
+[10] 'primary_reason_summary' changes confined to ML-primary rows: PASS -- 3815 changed rows, 0 outside ML-primary set
+[11] No fraud/corruption/wrongdoing language anywhere: PASS -- 0 hits
+[12] No UNNEGATED 'delayed/overdue' claims: PASS -- 0 unnegated hits
+[13] ML-primary explanations are individually differentiated (not 1-2 templates): PASS -- 242 unique summaries across 3815 rows
+[14] ML explanations do not claim a specific discovered cause: PASS -- 0 hits
+[15] No peer group below 20 used: PASS -- min=20.0
+[16] Output hash recorded for determinism check: PASS -- sha256(row-hash)=e6c764343bfbe68b...
+[17] Financial figures trace exactly to canonical_work_master: PASS -- 0 mismatches
+[18] No event-level expenditure fan-out: PASS -- 72675 rows
+[19] Primary-reason-type distribution recorded: PASS -- {'Deterministic compliance rule': np.int64(46864), 'Peer comparison': np.int64(21992), 'ML anomaly model (atypical combination of characteristics)': np.int64(3815), 'Data quality / coverage uncertainty': np.int64(4)}
+[20] Neutral fallback usage recorded: PASS -- 0 rows used the explicit neutral fallback
+
+26/26 checks passed

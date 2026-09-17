@@ -1,0 +1,103 @@
+# ==========================================
+# MPLADS SENTINEL - Git Ignore
+# ==========================================
+
+# ------------------------------------------
+# Node.js / npm
+# ------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------------------
+# Frontend build files
+# ------------------------------------------
+dist/
+dist-ssr/
+.vite/
+
+# ------------------------------------------
+# Environment / secrets
+# ------------------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------------------
+# Python
+# ------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+ENV/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ------------------------------------------
+# Logs
+# ------------------------------------------
+logs/
+*.log
+
+# ------------------------------------------
+# IDE / Editor
+# ------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.userosscache
+*.sln.docstates
+
+# ------------------------------------------
+# Operating system files
+# ------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------
+# Temporary files
+# ------------------------------------------
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ------------------------------------------
+# Test / coverage output
+# ------------------------------------------
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# ------------------------------------------
+# Jupyter
+# ------------------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------------------
+# Python distribution files
+# ------------------------------------------
+*.egg-info/
+build/
+# Large generated analytical outputs
+datasets/stage2_1_1 (1)/stage2_1_1_output/risk_explanations.csv
+datasets/stage2_1_1 (1)/stage2_1_1_output/risk_features.csv
+datasets/stage2_2_1_decision_intelligence_coverage/stage2_2_1_decision_intelligence_coverage/decision_intelligence.csv

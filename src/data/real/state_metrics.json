@@ -1,0 +1,2574 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "code": "UP",
+    "totalWorks": 11053,
+    "activeWorks": 3519,
+    "completedWorks": 7273,
+    "recommendedWorks": 261,
+    "criticalWorks": 322,
+    "highRiskWorks": 3370,
+    "mediumRiskWorks": 5104,
+    "lowRiskWorks": 2257,
+    "pendingVerification": 10,
+    "sanctionedCrores": 320.94,
+    "expenditureCrores": 69.82,
+    "utilizationPercent": 21.8,
+    "topDistricts": [
+      {
+        "name": "JAUNPUR(DISTRICT MAGISTRATE JAUNPUR_IDA)",
+        "total": 1455,
+        "critical": 127,
+        "high": 678,
+        "sanctionedCr": 10.19
+      },
+      {
+        "name": "VARANASI(DISTRICT MAGISTRAE VARANASI_IDA)",
+        "total": 702,
+        "critical": 0,
+        "high": 229,
+        "sanctionedCr": 1.94
+      },
+      {
+        "name": "BULANDSHAHR(DISTRICT MAGISTRATE BULANDSHAHR_IDA)",
+        "total": 513,
+        "critical": 19,
+        "high": 192,
+        "sanctionedCr": 12.94
+      },
+      {
+        "name": "BIJNOR(DISTRICT MAGISTRATE BIJNOR_IDA)",
+        "total": 468,
+        "critical": 0,
+        "high": 160,
+        "sanctionedCr": 9.82
+      },
+      {
+        "name": "KAUSHAMBI(DISTRICT MAGISTRAE KAUSHAMBI_IDA)",
+        "total": 525,
+        "critical": 2,
+        "high": 114,
+        "sanctionedCr": 1.76
+      },
+      {
+        "name": "PRATAPGARH(DISTRICT MAGISTRAE PRATAPGARH_IDA)",
+        "total": 278,
+        "critical": 1,
+        "high": 177,
+        "sanctionedCr": 2.49
+      },
+      {
+        "name": "RAMPUR(DISTRICT MAGISTRATE RAMPUR_IDA)",
+        "total": 453,
+        "critical": 1,
+        "high": 104,
+        "sanctionedCr": 7.18
+      },
+      {
+        "name": "ETAH(DISTRICT MAGISTRATE ETAH_IDA)",
+        "total": 244,
+        "critical": 0,
+        "high": 137,
+        "sanctionedCr": 3.43
+      },
+      {
+        "name": "MORADABAD(DISTRICT MAGISTRATE MORADABAD_IDA)",
+        "total": 270,
+        "critical": 14,
+        "high": 80,
+        "sanctionedCr": 4.64
+      },
+      {
+        "name": "SHAHJAHANPUR(DISTRICT MAGISTRAE SHAHJAHANAPUR_IDA)",
+        "total": 384,
+        "critical": 2,
+        "high": 74,
+        "sanctionedCr": 9.71
+      }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "code": "BR",
+    "totalWorks": 3624,
+    "activeWorks": 885,
+    "completedWorks": 2657,
+    "recommendedWorks": 82,
+    "criticalWorks": 39,
+    "highRiskWorks": 747,
+    "mediumRiskWorks": 1354,
+    "lowRiskWorks": 1484,
+    "pendingVerification": 5,
+    "sanctionedCrores": 161.47,
+    "expenditureCrores": 36.34,
+    "utilizationPercent": 22.5,
+    "topDistricts": [
+      {
+        "name": "GAYA(DISTRICT PLANNING OFFICER GAYA_IDA)",
+        "total": 294,
+        "critical": 4,
+        "high": 91,
+        "sanctionedCr": 8.55
+      },
+      {
+        "name": "MUZAFFARPUR(DISTRICT PLANNING OFFICER MUZAFFARPUR_IDA)",
+        "total": 168,
+        "critical": 13,
+        "high": 26,
+        "sanctionedCr": 16.78
+      },
+      {
+        "name": "MADHUBANI(DISTRICT PLANNING OFFICER MADHUBANI_IDA)",
+        "total": 184,
+        "critical": 0,
+        "high": 53,
+        "sanctionedCr": 11.56
+      },
+      {
+        "name": "DARBHANGA(DISTRICT PLANNING OFFICER DARBANGA_IDA)",
+        "total": 162,
+        "critical": 0,
+        "high": 56,
+        "sanctionedCr": 8.54
+      },
+      {
+        "name": "PURNIA(DISTRICT PLANNING OFFICER PURNIA_IDA)",
+        "total": 142,
+        "critical": 2,
+        "high": 53,
+        "sanctionedCr": 12.19
+      },
+      {
+        "name": "SITAMARHI(DISTRICT PLANNING OFFICER SITAMARHI_IDA)",
+        "total": 221,
+        "critical": 0,
+        "high": 28,
+        "sanctionedCr": 5.84
+      },
+      {
+        "name": "PATNA(DISTRICT PLANNING OFFICER PATNA_IDA)",
+        "total": 157,
+        "critical": 0,
+        "high": 38,
+        "sanctionedCr": 7.01
+      },
+      {
+        "name": "KISHANGANJ(DISTRICT PLANNING OFFICER KISHANGANJ_IDA)",
+        "total": 138,
+        "critical": 0,
+        "high": 43,
+        "sanctionedCr": 6.93
+      },
+      {
+        "name": "AURANGABAD(DISTRICT PLANNING OFFICER AURANGABAD_IDA)",
+        "total": 152,
+        "critical": 0,
+        "high": 36,
+        "sanctionedCr": 5.36
+      },
+      {
+        "name": "ROHTAS(District Planning Officer Rohtas_IDA)",
+        "total": 135,
+        "critical": 2,
+        "high": 34,
+        "sanctionedCr": 6.53
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "code": "GJ",
+    "totalWorks": 3544,
+    "activeWorks": 751,
+    "completedWorks": 2782,
+    "recommendedWorks": 11,
+    "criticalWorks": 28,
+    "highRiskWorks": 418,
+    "mediumRiskWorks": 1625,
+    "lowRiskWorks": 1473,
+    "pendingVerification": 5,
+    "sanctionedCrores": 66.94,
+    "expenditureCrores": 44.57,
+    "utilizationPercent": 66.6,
+    "topDistricts": [
+      {
+        "name": "NAVSARI(DISTRICT COLLECTOR NAVSARI_IDA)",
+        "total": 287,
+        "critical": 3,
+        "high": 36,
+        "sanctionedCr": 3.32
+      },
+      {
+        "name": "Dahod(DISTRICT COLLECTOR DOHAD_IDA)",
+        "total": 150,
+        "critical": 3,
+        "high": 67,
+        "sanctionedCr": 4.09
+      },
+      {
+        "name": "KHEDA(DISTRICT COLLECTOR KHEDA_IDA)",
+        "total": 288,
+        "critical": 0,
+        "high": 25,
+        "sanctionedCr": 3.26
+      },
+      {
+        "name": "SURAT(DISTRICT COLLECTOR SURAT_IDA)",
+        "total": 172,
+        "critical": 0,
+        "high": 51,
+        "sanctionedCr": 3.76
+      },
+      {
+        "name": "VADODARA(DISTRICT COLLECTOR VADODARA_IDA)",
+        "total": 207,
+        "critical": 5,
+        "high": 17,
+        "sanctionedCr": 7.98
+      },
+      {
+        "name": "ANAND(District Collector ANAND_IDA)",
+        "total": 256,
+        "critical": 0,
+        "high": 14,
+        "sanctionedCr": 1.3
+      },
+      {
+        "name": "MAHESANA(DISTRICT COLLECTOR MAHESANA_IDA)",
+        "total": 217,
+        "critical": 2,
+        "high": 18,
+        "sanctionedCr": 3
+      },
+      {
+        "name": "PANCH MAHALS(DISTRICT COLLECTOR PANCHMAHALS_IDA)",
+        "total": 207,
+        "critical": 3,
+        "high": 7,
+        "sanctionedCr": 3.23
+      },
+      {
+        "name": "BHARUCH(DISTRICT COLLECTOR BROACH_IDA)",
+        "total": 176,
+        "critical": 2,
+        "high": 18,
+        "sanctionedCr": 3.1
+      },
+      {
+        "name": "AMRELI(DISTRICT COLLECTOR AMRELI_IDA)",
+        "total": 158,
+        "critical": 1,
+        "high": 12,
+        "sanctionedCr": 2.71
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "code": "MP",
+    "totalWorks": 3535,
+    "activeWorks": 1113,
+    "completedWorks": 2261,
+    "recommendedWorks": 161,
+    "criticalWorks": 95,
+    "highRiskWorks": 687,
+    "mediumRiskWorks": 1825,
+    "lowRiskWorks": 928,
+    "pendingVerification": 18,
+    "sanctionedCrores": 103.14,
+    "expenditureCrores": 18.5,
+    "utilizationPercent": 17.9,
+    "topDistricts": [
+      {
+        "name": "DHAR(DISTRICT COLLECTOR DHAR_IDA)",
+        "total": 188,
+        "critical": 2,
+        "high": 52,
+        "sanctionedCr": 3.73
+      },
+      {
+        "name": "CHHINDWARA(DISTRICT COLLECTOR CHHINDWARA_IDA)",
+        "total": 189,
+        "critical": 4,
+        "high": 39,
+        "sanctionedCr": 2.86
+      },
+      {
+        "name": "BARWANI(DISTRICT COLLECTOR BADWANI_IDA)",
+        "total": 190,
+        "critical": 0,
+        "high": 40,
+        "sanctionedCr": 5.29
+      },
+      {
+        "name": "NARMADAPURAM(DISTRICT COLLECTOR NARMADAPURAM_IDA)",
+        "total": 103,
+        "critical": 11,
+        "high": 32,
+        "sanctionedCr": 1.27
+      },
+      {
+        "name": "INDORE(DISTRICT COLLECTOR INDORE_IDA)",
+        "total": 220,
+        "critical": 1,
+        "high": 23,
+        "sanctionedCr": 5.61
+      },
+      {
+        "name": "Khargone (West Nimar)(DISTRICT COLLECTOR KHARGONE_IDA)",
+        "total": 157,
+        "critical": 0,
+        "high": 44,
+        "sanctionedCr": 5.26
+      },
+      {
+        "name": "Khandwa (East Nimar)(DISTRICT COLLECTOR EAST NIMAR_IDA)",
+        "total": 167,
+        "critical": 6,
+        "high": 20,
+        "sanctionedCr": 4.06
+      },
+      {
+        "name": "SAGAR(DISTRICT COLLECTOR SAGAR_IDA)",
+        "total": 141,
+        "critical": 5,
+        "high": 30,
+        "sanctionedCr": 3.75
+      },
+      {
+        "name": "BETUL(DISTRICT COLLECTOR BETUL_IDA)",
+        "total": 197,
+        "critical": 2,
+        "high": 21,
+        "sanctionedCr": 2.68
+      },
+      {
+        "name": "SIDHI(DISTRICT COLLECTOR SIDHI_IDA)",
+        "total": 135,
+        "critical": 6,
+        "high": 15,
+        "sanctionedCr": 3.99
+      }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "code": "TN",
+    "totalWorks": 3228,
+    "activeWorks": 313,
+    "completedWorks": 2860,
+    "recommendedWorks": 55,
+    "criticalWorks": 106,
+    "highRiskWorks": 464,
+    "mediumRiskWorks": 1205,
+    "lowRiskWorks": 1453,
+    "pendingVerification": 11,
+    "sanctionedCrores": 129.95,
+    "expenditureCrores": 92.72,
+    "utilizationPercent": 71.4,
+    "topDistricts": [
+      {
+        "name": "Viluppuram(DISTRICT COLLECTOR VILLUPURAM_IDA)",
+        "total": 311,
+        "critical": 3,
+        "high": 59,
+        "sanctionedCr": 8.93
+      },
+      {
+        "name": "TIRUVANNAMALAI(DISTRICT COLLECTOR TIRUVANNAMALAI_IDA)",
+        "total": 318,
+        "critical": 2,
+        "high": 53,
+        "sanctionedCr": 7.75
+      },
+      {
+        "name": "CHENGALPATTU(District Collector Chengalpattu_IDA)",
+        "total": 211,
+        "critical": 3,
+        "high": 7,
+        "sanctionedCr": 2.71
+      },
+      {
+        "name": "THIRUVALLUR(DISTRICT COLLECTOR TIRUVALLUR_IDA)",
+        "total": 132,
+        "critical": 2,
+        "high": 34,
+        "sanctionedCr": 5.03
+      },
+      {
+        "name": "TENKASI(DISTRICT COLLECTOR TENKASI_IDA)",
+        "total": 85,
+        "critical": 9,
+        "high": 25,
+        "sanctionedCr": 3.82
+      },
+      {
+        "name": "NAMAKKAL(DISTRICT COLLECTOR NAMAKKAL_IDA)",
+        "total": 131,
+        "critical": 4,
+        "high": 23,
+        "sanctionedCr": 3.89
+      },
+      {
+        "name": "KALLAKURICHI(District Collector Kallakurichi_IDA)",
+        "total": 145,
+        "critical": 4,
+        "high": 17,
+        "sanctionedCr": 4.06
+      },
+      {
+        "name": "SALEM(DISTRICT COLLECTOR SALEM_IDA)",
+        "total": 121,
+        "critical": 2,
+        "high": 28,
+        "sanctionedCr": 2.39
+      },
+      {
+        "name": "ERODE(DISTRICT_COLLECTORE_ERODE_IDA)",
+        "total": 162,
+        "critical": 2,
+        "high": 11,
+        "sanctionedCr": 5.62
+      },
+      {
+        "name": "Kancheepuram(DISTRICT COLLECTOR KANCHEEPURAM_IDA)",
+        "total": 124,
+        "critical": 3,
+        "high": 13,
+        "sanctionedCr": 5.13
+      }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "code": "WB",
+    "totalWorks": 3164,
+    "activeWorks": 822,
+    "completedWorks": 2325,
+    "recommendedWorks": 17,
+    "criticalWorks": 121,
+    "highRiskWorks": 753,
+    "mediumRiskWorks": 1556,
+    "lowRiskWorks": 734,
+    "pendingVerification": 7,
+    "sanctionedCrores": 162.27,
+    "expenditureCrores": 59.36,
+    "utilizationPercent": 36.6,
+    "topDistricts": [
+      {
+        "name": "South 24 Parganas(DISTRICT MAGISTRATE SOUTH TWENTY FOUR PARGANAS_IDA)",
+        "total": 682,
+        "critical": 9,
+        "high": 156,
+        "sanctionedCr": 17.58
+      },
+      {
+        "name": "HOOGHLY(DISTRICT MAGISTRATE HOOGHLY_IDA)",
+        "total": 264,
+        "critical": 14,
+        "high": 78,
+        "sanctionedCr": 11.24
+      },
+      {
+        "name": "North 24 Parganas(DISTRICT MAGISTRATE NORTH TWENTY FOUR PARGANAS_IDA)",
+        "total": 238,
+        "critical": 13,
+        "high": 65,
+        "sanctionedCr": 29.33
+      },
+      {
+        "name": "Paschim Medinipur(DISTRICT MAGISTRATE PASCHIM MEDINIPUR_IDA)",
+        "total": 222,
+        "critical": 12,
+        "high": 48,
+        "sanctionedCr": 7.08
+      },
+      {
+        "name": "BIRBHUM(DISTRICT MAGISTRATE BIRBHUM_IDA)",
+        "total": 188,
+        "critical": 19,
+        "high": 36,
+        "sanctionedCr": 16.08
+      },
+      {
+        "name": "HOWRAH(DISTRICT MAGISTRATE HOWRAH_IDA)",
+        "total": 276,
+        "critical": 3,
+        "high": 54,
+        "sanctionedCr": 6.72
+      },
+      {
+        "name": "NADIA(DISTRICT MAGISTRATE NADIA_IDA)",
+        "total": 163,
+        "critical": 2,
+        "high": 62,
+        "sanctionedCr": 11.77
+      },
+      {
+        "name": "MURSHIDABAD(DISTRICT MAGISTRATE MURSHIDABAD_IDA)",
+        "total": 263,
+        "critical": 2,
+        "high": 4,
+        "sanctionedCr": 4.98
+      },
+      {
+        "name": "Cooch Behar(DISTRICT MAGISTRATE COOCHBEHAR_IDA)",
+        "total": 39,
+        "critical": 18,
+        "high": 20,
+        "sanctionedCr": 3.2
+      },
+      {
+        "name": "PURBA BARDHAMAN(DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA)",
+        "total": 121,
+        "critical": 8,
+        "high": 22,
+        "sanctionedCr": 10.46
+      }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "code": "OR",
+    "totalWorks": 2645,
+    "activeWorks": 1266,
+    "completedWorks": 1365,
+    "recommendedWorks": 14,
+    "criticalWorks": 89,
+    "highRiskWorks": 497,
+    "mediumRiskWorks": 1202,
+    "lowRiskWorks": 857,
+    "pendingVerification": 6,
+    "sanctionedCrores": 44.16,
+    "expenditureCrores": 22.37,
+    "utilizationPercent": 50.7,
+    "topDistricts": [
+      {
+        "name": "KHORDHA(DISTRICT COLLECTOR KHORDHA_IDA)",
+        "total": 622,
+        "critical": 20,
+        "high": 246,
+        "sanctionedCr": 9.88
+      },
+      {
+        "name": "PURI(DISTRICT COLLECTOR PURI_IDA)",
+        "total": 320,
+        "critical": 29,
+        "high": 30,
+        "sanctionedCr": 1.23
+      },
+      {
+        "name": "Nayagada(DISTRICT COLLECTOR NAYAGARH_IDA)",
+        "total": 358,
+        "critical": 13,
+        "high": 11,
+        "sanctionedCr": 1.22
+      },
+      {
+        "name": "KORAPUT(District Collector Koraput_IDA)",
+        "total": 203,
+        "critical": 1,
+        "high": 42,
+        "sanctionedCr": 3.79
+      },
+      {
+        "name": "Sundaragada(DISTRICT COLLECTOR SUNDARGARH_IDA)",
+        "total": 124,
+        "critical": 5,
+        "high": 30,
+        "sanctionedCr": 4.72
+      },
+      {
+        "name": "Kendujhar(DISTRICT COLLECTOR KEONJHAR_IDA)",
+        "total": 80,
+        "critical": 8,
+        "high": 23,
+        "sanctionedCr": 2.49
+      },
+      {
+        "name": "RAYAGADA(DISTRICT COLLECTOR RAYAGADA_IDA)",
+        "total": 126,
+        "critical": 4,
+        "high": 19,
+        "sanctionedCr": 2.99
+      },
+      {
+        "name": "KALAHANDI(DISTRICT COLLECTOR KALAHANDI_IDA)",
+        "total": 120,
+        "critical": 0,
+        "high": 15,
+        "sanctionedCr": 2.86
+      },
+      {
+        "name": "Subarnapur(District Collector Subarnapur_IDA)",
+        "total": 118,
+        "critical": 0,
+        "high": 15,
+        "sanctionedCr": 2.56
+      },
+      {
+        "name": "Kandhamala(DISTRICT COLLECTOR KANDHAMAL_IDA)",
+        "total": 97,
+        "critical": 1,
+        "high": 11,
+        "sanctionedCr": 1.5
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "code": "PB",
+    "totalWorks": 2508,
+    "activeWorks": 930,
+    "completedWorks": 1497,
+    "recommendedWorks": 81,
+    "criticalWorks": 144,
+    "highRiskWorks": 533,
+    "mediumRiskWorks": 1111,
+    "lowRiskWorks": 720,
+    "pendingVerification": 38,
+    "sanctionedCrores": 43.68,
+    "expenditureCrores": 13.25,
+    "utilizationPercent": 30.3,
+    "topDistricts": [
+      {
+        "name": "HOSHIARPUR(DEPUTY COMMISSIONER HOSHIARPUR_IDA)",
+        "total": 366,
+        "critical": 35,
+        "high": 105,
+        "sanctionedCr": 6.98
+      },
+      {
+        "name": "LUDHIANA(DEPUTY COMMISSIONER LUDHIANA_IDA)",
+        "total": 224,
+        "critical": 14,
+        "high": 54,
+        "sanctionedCr": 4.63
+      },
+      {
+        "name": "GURDASPUR(DEPUTY COMMISSIONER GURDASPUR_IDA)",
+        "total": 106,
+        "critical": 25,
+        "high": 37,
+        "sanctionedCr": 2.98
+      },
+      {
+        "name": "MOGA(Deputy Commissioner Moga)",
+        "total": 174,
+        "critical": 13,
+        "high": 43,
+        "sanctionedCr": 5.68
+      },
+      {
+        "name": "FEROZEPUR(DEPUTY COMMISSIONER FIROZEPUR_IDA)",
+        "total": 203,
+        "critical": 0,
+        "high": 41,
+        "sanctionedCr": 2.79
+      },
+      {
+        "name": "PATIALA(DEPUTY COMMISSIONER PATIALA_IDA)",
+        "total": 73,
+        "critical": 13,
+        "high": 23,
+        "sanctionedCr": 1.77
+      },
+      {
+        "name": "BARNALA(DEPUTY COMMISSIONER BARNALA_IDA)",
+        "total": 121,
+        "critical": 6,
+        "high": 24,
+        "sanctionedCr": 1.32
+      },
+      {
+        "name": "FARIDKOT(DEPUTY COMMISSIONER FARIDKOT_IDA)",
+        "total": 176,
+        "critical": 3,
+        "high": 8,
+        "sanctionedCr": 2.95
+      },
+      {
+        "name": "RUPNAGAR(DEPUTY COMMISSIONER ROOPNAGAR_IDA)",
+        "total": 79,
+        "critical": 6,
+        "high": 16,
+        "sanctionedCr": 2.6
+      },
+      {
+        "name": "MALERKOTLA(Deputy Commissioner Malerkotla_IDA)",
+        "total": 71,
+        "critical": 2,
+        "high": 32,
+        "sanctionedCr": 1.21
+      }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "code": "TS",
+    "totalWorks": 2307,
+    "activeWorks": 244,
+    "completedWorks": 2063,
+    "recommendedWorks": 0,
+    "criticalWorks": 100,
+    "highRiskWorks": 645,
+    "mediumRiskWorks": 695,
+    "lowRiskWorks": 867,
+    "pendingVerification": 11,
+    "sanctionedCrores": 36.14,
+    "expenditureCrores": 24.39,
+    "utilizationPercent": 67.5,
+    "topDistricts": [
+      {
+        "name": "NIZAMABAD(DISTRICT COLLECTOR NIZAMABAD_IDA)",
+        "total": 333,
+        "critical": 8,
+        "high": 86,
+        "sanctionedCr": 8.92
+      },
+      {
+        "name": "YADADRI BHUVANAGIRI(DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA)",
+        "total": 162,
+        "critical": 14,
+        "high": 89,
+        "sanctionedCr": 1.26
+      },
+      {
+        "name": "Jagitial(DISTRICT COLLECTOR JAGTIAL_IDA)",
+        "total": 182,
+        "critical": 17,
+        "high": 72,
+        "sanctionedCr": 3.56
+      },
+      {
+        "name": "VIKARABAD(DISTRICT COLLECTOR VIKARABAD_2)",
+        "total": 166,
+        "critical": 14,
+        "high": 56,
+        "sanctionedCr": 2.49
+      },
+      {
+        "name": "NALGONDA(DISTRICT COLLECTOR NALGONDA)",
+        "total": 118,
+        "critical": 3,
+        "high": 71,
+        "sanctionedCr": 1.82
+      },
+      {
+        "name": "RANGA REDDY(DISTRICT COLLECTOR RANGAREDDY_IDA)",
+        "total": 178,
+        "critical": 1,
+        "high": 57,
+        "sanctionedCr": 1.61
+      },
+      {
+        "name": "SIDDIPET(District Collector Siddipet_IDA)",
+        "total": 126,
+        "critical": 9,
+        "high": 11,
+        "sanctionedCr": 2.23
+      },
+      {
+        "name": "WARANGAL(District Collector Warangal_IDA)",
+        "total": 169,
+        "critical": 4,
+        "high": 8,
+        "sanctionedCr": 1.65
+      },
+      {
+        "name": "KARIMNAGAR(DISTRICT COLLECTOR KARIMNAGAR_IDA)",
+        "total": 83,
+        "critical": 8,
+        "high": 20,
+        "sanctionedCr": 1.55
+      },
+      {
+        "name": "HANUMAKONDA(DISTRICT COLLECTOR HANUMAKONDA_IDA)",
+        "total": 62,
+        "critical": 2,
+        "high": 25,
+        "sanctionedCr": 1.99
+      }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "code": "AP",
+    "totalWorks": 2080,
+    "activeWorks": 886,
+    "completedWorks": 1164,
+    "recommendedWorks": 30,
+    "criticalWorks": 67,
+    "highRiskWorks": 546,
+    "mediumRiskWorks": 983,
+    "lowRiskWorks": 484,
+    "pendingVerification": 12,
+    "sanctionedCrores": 83.94,
+    "expenditureCrores": 34.22,
+    "utilizationPercent": 40.8,
+    "topDistricts": [
+      {
+        "name": "KURNOOL(DISTRICT COLLECTOR KURNOOL_IDA)",
+        "total": 426,
+        "critical": 1,
+        "high": 143,
+        "sanctionedCr": 9.57
+      },
+      {
+        "name": "CHITTOOR(DISTRICT COLLECTOR CHITTOOR_IDA)",
+        "total": 220,
+        "critical": 5,
+        "high": 47,
+        "sanctionedCr": 4.98
+      },
+      {
+        "name": "VIZIANAGARAM(DISTRICT COLLECTOR VIZIANAGARAM_IDA)",
+        "total": 200,
+        "critical": 3,
+        "high": 48,
+        "sanctionedCr": 8.45
+      },
+      {
+        "name": "Tirupati(DISTRICT COLLECTOR TIRUPATI_IDA)",
+        "total": 173,
+        "critical": 4,
+        "high": 36,
+        "sanctionedCr": 3.92
+      },
+      {
+        "name": "Nandyal(DISTRICT COLLECTOR NANDYAL_IDA)",
+        "total": 99,
+        "critical": 7,
+        "high": 40,
+        "sanctionedCr": 3.64
+      },
+      {
+        "name": "Sri Potti Sriramulu Nellore(DISTRICT COLLECTOR NELLORE_IDA)",
+        "total": 127,
+        "critical": 2,
+        "high": 41,
+        "sanctionedCr": 4.03
+      },
+      {
+        "name": "Y.S.R. Kadapa(DISTRICT COLLECTOR CUDDAPAH_IDA)",
+        "total": 124,
+        "critical": 11,
+        "high": 11,
+        "sanctionedCr": 5.62
+      },
+      {
+        "name": "Ananthapuramu(DISTRICT COLLECTOR ANANTAPUR_IDA)",
+        "total": 108,
+        "critical": 5,
+        "high": 36,
+        "sanctionedCr": 7.43
+      },
+      {
+        "name": "SRIKAKULAM(District Collector Srikakulam_IDA)",
+        "total": 128,
+        "critical": 4,
+        "high": 29,
+        "sanctionedCr": 5.21
+      },
+      {
+        "name": "Dr. B.R. Ambedkar Konaseema(DISTRICT COLLECTOR Dr B R AMBEDKAR KONASEEMA_IDA)",
+        "total": 106,
+        "critical": 6,
+        "high": 21,
+        "sanctionedCr": 6.8
+      }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "code": "RJ",
+    "totalWorks": 1665,
+    "activeWorks": 572,
+    "completedWorks": 973,
+    "recommendedWorks": 120,
+    "criticalWorks": 166,
+    "highRiskWorks": 463,
+    "mediumRiskWorks": 762,
+    "lowRiskWorks": 274,
+    "pendingVerification": 38,
+    "sanctionedCrores": 70.73,
+    "expenditureCrores": 29.95,
+    "utilizationPercent": 42.3,
+    "topDistricts": [
+      {
+        "name": "ALWAR(DISTRICT COLLECTOR ALWAR_IDA)",
+        "total": 167,
+        "critical": 19,
+        "high": 48,
+        "sanctionedCr": 9.31
+      },
+      {
+        "name": "NAGAUR(DISTRICT COLLECTOR NAGAUR_IDA)",
+        "total": 212,
+        "critical": 4,
+        "high": 60,
+        "sanctionedCr": 5.75
+      },
+      {
+        "name": "JHUNJHUNU(DISTRICT COLLECTOR JHUNJHUNU_IDA)",
+        "total": 95,
+        "critical": 8,
+        "high": 28,
+        "sanctionedCr": 1.85
+      },
+      {
+        "name": "PALI(DISTRICT COLLECTOR PALI_IDA)",
+        "total": 99,
+        "critical": 4,
+        "high": 33,
+        "sanctionedCr": 4.86
+      },
+      {
+        "name": "JALORE(DISTRICT COLLECTOR JALORE_IDA)",
+        "total": 35,
+        "critical": 14,
+        "high": 13,
+        "sanctionedCr": 1.59
+      },
+      {
+        "name": "BHARATPUR(DISTRICT COLLECTOR BHARATPUR_IDA)",
+        "total": 64,
+        "critical": 8,
+        "high": 22,
+        "sanctionedCr": 2.84
+      },
+      {
+        "name": "AJMER(DISTRICT COLLECTOR AJMER_IDA)",
+        "total": 50,
+        "critical": 13,
+        "high": 9,
+        "sanctionedCr": 1.66
+      },
+      {
+        "name": "DAUSA(DISTRICT COLLECTOR DAUSA_IDA)",
+        "total": 79,
+        "critical": 1,
+        "high": 33,
+        "sanctionedCr": 1.28
+      },
+      {
+        "name": "SIKAR(DISTRICT COLLECTOR SIKAR_IDA)",
+        "total": 54,
+        "critical": 8,
+        "high": 15,
+        "sanctionedCr": 2.39
+      },
+      {
+        "name": "Shahpura(DISTRICT COLLECTOR Shahpura_IDA)",
+        "total": 47,
+        "critical": 8,
+        "high": 17,
+        "sanctionedCr": 0.7
+      }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "code": "KA",
+    "totalWorks": 1492,
+    "activeWorks": 775,
+    "completedWorks": 693,
+    "recommendedWorks": 24,
+    "criticalWorks": 117,
+    "highRiskWorks": 318,
+    "mediumRiskWorks": 794,
+    "lowRiskWorks": 263,
+    "pendingVerification": 8,
+    "sanctionedCrores": 72.86,
+    "expenditureCrores": 22.27,
+    "utilizationPercent": 30.6,
+    "topDistricts": [
+      {
+        "name": "BENGALURU URBAN(DEPUTY COMMISSIONER BANGALORE URBAN_IDA)",
+        "total": 144,
+        "critical": 16,
+        "high": 24,
+        "sanctionedCr": 10.63
+      },
+      {
+        "name": "BIDAR(DEPUTY COMMISSIONER BIDAR_IDA)",
+        "total": 59,
+        "critical": 13,
+        "high": 30,
+        "sanctionedCr": 2.56
+      },
+      {
+        "name": "BAGALKOTE(DEPUTY COMMISSIONER BAGALKOT_IDA)",
+        "total": 110,
+        "critical": 12,
+        "high": 16,
+        "sanctionedCr": 3.71
+      },
+      {
+        "name": "KOPPAL(DEPUTY COMMISSIONER KOPPAL_IDA)",
+        "total": 85,
+        "critical": 11,
+        "high": 20,
+        "sanctionedCr": 2.56
+      },
+      {
+        "name": "CHIKKAMAGALURU(DEPUTY COMMISSIONER CHIKMAGALUR)",
+        "total": 64,
+        "critical": 7,
+        "high": 40,
+        "sanctionedCr": 2.74
+      },
+      {
+        "name": "UDUPI(DEPUTY COMMISSIONER UDUPI_IDA)",
+        "total": 64,
+        "critical": 4,
+        "high": 17,
+        "sanctionedCr": 2.62
+      },
+      {
+        "name": "Bengaluru South(DEPUTY COMMISSIONER RAMANAGARA_IDA)",
+        "total": 81,
+        "critical": 3,
+        "high": 12,
+        "sanctionedCr": 3.41
+      },
+      {
+        "name": "SHIVAMOGGA(DEPUTY COMMISSIONER SHIMOGA_IDA)",
+        "total": 102,
+        "critical": 0,
+        "high": 13,
+        "sanctionedCr": 4.16
+      },
+      {
+        "name": "KOLAR(DEPUTY COMMISSIONER KOLAR_IDA)",
+        "total": 35,
+        "critical": 8,
+        "high": 8,
+        "sanctionedCr": 1.64
+      },
+      {
+        "name": "DAKSHINA KANNADA(DEPUTY COMMISSIONER DAKSHIN KANNAD MANGALORE_IDA)",
+        "total": 84,
+        "critical": 1,
+        "high": 14,
+        "sanctionedCr": 2.44
+      }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "code": "JH",
+    "totalWorks": 1392,
+    "activeWorks": 741,
+    "completedWorks": 651,
+    "recommendedWorks": 0,
+    "criticalWorks": 3,
+    "highRiskWorks": 381,
+    "mediumRiskWorks": 637,
+    "lowRiskWorks": 371,
+    "pendingVerification": 3,
+    "sanctionedCrores": 28.13,
+    "expenditureCrores": 5.85,
+    "utilizationPercent": 20.8,
+    "topDistricts": [
+      {
+        "name": "BOKARO(DEPUTY COMMISSIONER BOKARO_IDA)",
+        "total": 374,
+        "critical": 0,
+        "high": 59,
+        "sanctionedCr": 2.38
+      },
+      {
+        "name": "GIRIDIH(Deputy Commissioner Giridh_IDA)",
+        "total": 180,
+        "critical": 2,
+        "high": 106,
+        "sanctionedCr": 3.3
+      },
+      {
+        "name": "RANCHI(DEPUTY COMMISSIONER RANCHI_IDA)",
+        "total": 130,
+        "critical": 0,
+        "high": 60,
+        "sanctionedCr": 10.75
+      },
+      {
+        "name": "KODERMA(DEPUTY COMMISSIONER KODARMA_IDA)",
+        "total": 79,
+        "critical": 0,
+        "high": 53,
+        "sanctionedCr": 2
+      },
+      {
+        "name": "PALAMU(DEPUTY COMMISSIONER PALAMAU_IDA)",
+        "total": 172,
+        "critical": 0,
+        "high": 7,
+        "sanctionedCr": 0.97
+      },
+      {
+        "name": "DHANBAD(DEPUTY COMMISSIONER DHANBAD_IDA)",
+        "total": 92,
+        "critical": 0,
+        "high": 20,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "SIMDEGA(Deputy Commissioner simdega_IDA)",
+        "total": 47,
+        "critical": 0,
+        "high": 32,
+        "sanctionedCr": 1.81
+      },
+      {
+        "name": "KHUNTI(DEPUTY COMMISSIONER KHUNTI_IDA)",
+        "total": 70,
+        "critical": 0,
+        "high": 17,
+        "sanctionedCr": 3.49
+      },
+      {
+        "name": "JAMTARA(Deputy Commissioner Jamtara_IDA)",
+        "total": 77,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "LOHARDAGA(DEPUTY COMMISSIONER LOHARDAGA_IDA)",
+        "total": 33,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.4
+      }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "code": "CG",
+    "totalWorks": 1388,
+    "activeWorks": 497,
+    "completedWorks": 890,
+    "recommendedWorks": 1,
+    "criticalWorks": 50,
+    "highRiskWorks": 322,
+    "mediumRiskWorks": 688,
+    "lowRiskWorks": 328,
+    "pendingVerification": 6,
+    "sanctionedCrores": 47.43,
+    "expenditureCrores": 13.56,
+    "utilizationPercent": 28.6,
+    "topDistricts": [
+      {
+        "name": "SAKTI(COLLECTOR SAKTI_IDA)",
+        "total": 208,
+        "critical": 1,
+        "high": 25,
+        "sanctionedCr": 3.21
+      },
+      {
+        "name": "RAIPUR(DISTRICT COLLECTOR RAIPUR_IDA)",
+        "total": 116,
+        "critical": 3,
+        "high": 37,
+        "sanctionedCr": 5.77
+      },
+      {
+        "name": "KORBA(Collector-Korba)",
+        "total": 112,
+        "critical": 9,
+        "high": 16,
+        "sanctionedCr": 2.82
+      },
+      {
+        "name": "SURGUJA(Collector Surguja_IDA)",
+        "total": 72,
+        "critical": 10,
+        "high": 20,
+        "sanctionedCr": 1.96
+      },
+      {
+        "name": "Uttar Bastar Kanker(DISTRICT COLLECTOR KANKER_IDA)",
+        "total": 45,
+        "critical": 3,
+        "high": 20,
+        "sanctionedCr": 2.2
+      },
+      {
+        "name": "RAJNANDGAON(DISTRICT COLLECTOR RAJNANDGAON_IDA)",
+        "total": 73,
+        "critical": 0,
+        "high": 16,
+        "sanctionedCr": 1.66
+      },
+      {
+        "name": "SURAJPUR(DISTRICT COLLECTOR Surajpur_IDA)",
+        "total": 62,
+        "critical": 1,
+        "high": 15,
+        "sanctionedCr": 1.32
+      },
+      {
+        "name": "Gaurela-Pendra-Marwahi(Collector GPM_IDA)",
+        "total": 63,
+        "critical": 1,
+        "high": 13,
+        "sanctionedCr": 1.33
+      },
+      {
+        "name": "MAHASAMUND(DISTRICT COLLECTOR MAHASAMUND_IDA)",
+        "total": 58,
+        "critical": 0,
+        "high": 16,
+        "sanctionedCr": 2.42
+      },
+      {
+        "name": "KONDAGAON(DISTRICT COLLECTOR KONDAGAON_IDA)",
+        "total": 26,
+        "critical": 3,
+        "high": 16,
+        "sanctionedCr": 1.31
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "code": "MH",
+    "totalWorks": 1315,
+    "activeWorks": 387,
+    "completedWorks": 928,
+    "recommendedWorks": 0,
+    "criticalWorks": 84,
+    "highRiskWorks": 209,
+    "mediumRiskWorks": 412,
+    "lowRiskWorks": 610,
+    "pendingVerification": 8,
+    "sanctionedCrores": 76.47,
+    "expenditureCrores": 62.05,
+    "utilizationPercent": 81.1,
+    "topDistricts": [
+      {
+        "name": "LATUR(DISTRICT COLLECTOR LATUR_IDA)",
+        "total": 58,
+        "critical": 11,
+        "high": 17,
+        "sanctionedCr": 4.38
+      },
+      {
+        "name": "MUMBAI SUBURBAN(DISTRICT COLLECTOR MUMBAI SUBURBAN_IDA)",
+        "total": 75,
+        "critical": 6,
+        "high": 22,
+        "sanctionedCr": 12.95
+      },
+      {
+        "name": "AMRAVATI(DISTRICT COLLECTOR AMRAVATI_IDA)",
+        "total": 71,
+        "critical": 5,
+        "high": 15,
+        "sanctionedCr": 3.99
+      },
+      {
+        "name": "DHULE(DISTRICT COLLECTOR DHULE_IDA)",
+        "total": 110,
+        "critical": 0,
+        "high": 12,
+        "sanctionedCr": 2.47
+      },
+      {
+        "name": "SATARA(DISTRICT COLLECTOR SATARA_IDA)",
+        "total": 62,
+        "critical": 5,
+        "high": 11,
+        "sanctionedCr": 5.37
+      },
+      {
+        "name": "RAIGAD(DISTRICT COLLECTOR RAIGAD_IDA)",
+        "total": 34,
+        "critical": 8,
+        "high": 5,
+        "sanctionedCr": 4.36
+      },
+      {
+        "name": "WARDHA(DISTRICT COLLECTOR WARDHA_IDA)",
+        "total": 32,
+        "critical": 5,
+        "high": 13,
+        "sanctionedCr": 1.75
+      },
+      {
+        "name": "Ahilyanagar(DISTRICT COLLECTOR AHMEDNAGAR_IDA)",
+        "total": 48,
+        "critical": 6,
+        "high": 4,
+        "sanctionedCr": 1.86
+      },
+      {
+        "name": "PUNE(DISTRICT COLLECTOR PUNE_IDA)",
+        "total": 77,
+        "critical": 2,
+        "high": 6,
+        "sanctionedCr": 3.17
+      },
+      {
+        "name": "BEED(DISTRICT COLLECTOR BEED_IDA)",
+        "total": 32,
+        "critical": 4,
+        "high": 14,
+        "sanctionedCr": 3.11
+      }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "code": "KL",
+    "totalWorks": 1293,
+    "activeWorks": 385,
+    "completedWorks": 905,
+    "recommendedWorks": 3,
+    "criticalWorks": 78,
+    "highRiskWorks": 256,
+    "mediumRiskWorks": 501,
+    "lowRiskWorks": 458,
+    "pendingVerification": 17,
+    "sanctionedCrores": 48.92,
+    "expenditureCrores": 14.71,
+    "utilizationPercent": 30.1,
+    "topDistricts": [
+      {
+        "name": "ERNAKULAM(DISTRICT COLLECTOR ERNAKULAM_IDA)",
+        "total": 141,
+        "critical": 11,
+        "high": 46,
+        "sanctionedCr": 8.34
+      },
+      {
+        "name": "PALAKKAD(DISTRICT COLLECTOR PALAKKAD_IDA)",
+        "total": 170,
+        "critical": 13,
+        "high": 21,
+        "sanctionedCr": 5.77
+      },
+      {
+        "name": "KOTTAYAM(DISTRICT COLLECTOR KOTTAYAM_IDA)",
+        "total": 155,
+        "critical": 8,
+        "high": 40,
+        "sanctionedCr": 6.24
+      },
+      {
+        "name": "THIRUVANANTHAPURAM(DISTRICT COLLECTOR THIRUVANANTHAPURAM_IDA)",
+        "total": 168,
+        "critical": 5,
+        "high": 40,
+        "sanctionedCr": 3.98
+      },
+      {
+        "name": "KOLLAM(DISTRICT COLLECTOR KOLLAM_IDA)",
+        "total": 118,
+        "critical": 7,
+        "high": 23,
+        "sanctionedCr": 6.54
+      },
+      {
+        "name": "KANNUR(DISTRICT COLLECTOR KANNUR_IDA)",
+        "total": 107,
+        "critical": 9,
+        "high": 16,
+        "sanctionedCr": 3.17
+      },
+      {
+        "name": "ALAPPUZHA(DISTRICT COLLECTOR ALAPPUZHA_IDA)",
+        "total": 57,
+        "critical": 8,
+        "high": 6,
+        "sanctionedCr": 1.88
+      },
+      {
+        "name": "PATHANAMTHITTA(DISTRICT COLLECTOR PATHANAMTHITTA_IDA)",
+        "total": 58,
+        "critical": 2,
+        "high": 24,
+        "sanctionedCr": 2.07
+      },
+      {
+        "name": "MALAPPURAM(DISTRICT COLLECTOR MALAPPURAM_IDA)",
+        "total": 92,
+        "critical": 2,
+        "high": 7,
+        "sanctionedCr": 1.77
+      },
+      {
+        "name": "THRISSUR(DISTRICT COLLECTOR THRISSUR_IDA)",
+        "total": 62,
+        "critical": 3,
+        "high": 8,
+        "sanctionedCr": 3.53
+      }
+    ]
+  },
+  {
+    "state": "Assam",
+    "code": "AS",
+    "totalWorks": 725,
+    "activeWorks": 519,
+    "completedWorks": 205,
+    "recommendedWorks": 1,
+    "criticalWorks": 34,
+    "highRiskWorks": 164,
+    "mediumRiskWorks": 389,
+    "lowRiskWorks": 138,
+    "pendingVerification": 7,
+    "sanctionedCrores": 35.25,
+    "expenditureCrores": 10.68,
+    "utilizationPercent": 30.3,
+    "topDistricts": [
+      {
+        "name": "KARBI ANGLONG(DEPUTY COMMISSIONER KARBI ANGLONG_IDA)",
+        "total": 48,
+        "critical": 1,
+        "high": 25,
+        "sanctionedCr": 3.86
+      },
+      {
+        "name": "SIVASAGAR(Deputy Commissioner Sivsagar_IDA)",
+        "total": 28,
+        "critical": 5,
+        "high": 8,
+        "sanctionedCr": 0.56
+      },
+      {
+        "name": "SONITPUR(Deputy Commissioner Sonitpur, Tezpur)",
+        "total": 27,
+        "critical": 5,
+        "high": 6,
+        "sanctionedCr": 1.77
+      },
+      {
+        "name": "BARPETA(DEPUTY COMMISSIONER BARPETA 1)",
+        "total": 34,
+        "critical": 2,
+        "high": 13,
+        "sanctionedCr": 1.87
+      },
+      {
+        "name": "BONGAIGAON(Deputy Commissioner Bongaigaon_IDA)",
+        "total": 27,
+        "critical": 4,
+        "high": 8,
+        "sanctionedCr": 2.04
+      },
+      {
+        "name": "CHARAIDEO(Deputy Commissioner Charaideo_IDA)",
+        "total": 39,
+        "critical": 2,
+        "high": 9,
+        "sanctionedCr": 0.75
+      },
+      {
+        "name": "GOALPARA(Deputy Commissioner Goalpara_IDA)",
+        "total": 38,
+        "critical": 1,
+        "high": 12,
+        "sanctionedCr": 2.12
+      },
+      {
+        "name": "MARIGAON(District Development Commissioner Morigaon)",
+        "total": 47,
+        "critical": 1,
+        "high": 8,
+        "sanctionedCr": 2.23
+      },
+      {
+        "name": "NAGAON(DEPUTY COMMISSIONER NOWGONG_IDA)",
+        "total": 38,
+        "critical": 1,
+        "high": 10,
+        "sanctionedCr": 1.83
+      },
+      {
+        "name": "JORHAT(DEPUTY COMMISSIONER JORHAT_IDA)",
+        "total": 56,
+        "critical": 1,
+        "high": 3,
+        "sanctionedCr": 1.19
+      }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "code": "HR",
+    "totalWorks": 698,
+    "activeWorks": 172,
+    "completedWorks": 456,
+    "recommendedWorks": 70,
+    "criticalWorks": 59,
+    "highRiskWorks": 119,
+    "mediumRiskWorks": 297,
+    "lowRiskWorks": 223,
+    "pendingVerification": 15,
+    "sanctionedCrores": 21.65,
+    "expenditureCrores": 14.94,
+    "utilizationPercent": 69,
+    "topDistricts": [
+      {
+        "name": "HISAR(DEPUTY COMMISSIONER HISSAR_IDA)",
+        "total": 160,
+        "critical": 18,
+        "high": 40,
+        "sanctionedCr": 4.76
+      },
+      {
+        "name": "KAITHAL(DC CUM NODAL OFFICERS MPLADS)",
+        "total": 44,
+        "critical": 9,
+        "high": 9,
+        "sanctionedCr": 1.11
+      },
+      {
+        "name": "JIND(DEPUTY COMMISSIONER JIND)",
+        "total": 31,
+        "critical": 7,
+        "high": 8,
+        "sanctionedCr": 1.38
+      },
+      {
+        "name": "JHAJJAR(DEPUTY COMMISSIONER cum NODAL OFFICER MPLADS JHAJJAR)",
+        "total": 42,
+        "critical": 4,
+        "high": 13,
+        "sanctionedCr": 2.6
+      },
+      {
+        "name": "ROHTAK(DEPUTY COMMISSIONER ROHTAK_IDA)",
+        "total": 45,
+        "critical": 5,
+        "high": 8,
+        "sanctionedCr": 1.62
+      },
+      {
+        "name": "REWARI(District Commissioner Rewari)",
+        "total": 48,
+        "critical": 3,
+        "high": 12,
+        "sanctionedCr": 3.45
+      },
+      {
+        "name": "KURUKSHETRA(DEPUTY COMMISSIONER KURUKSHETRA_IDA)",
+        "total": 77,
+        "critical": 1,
+        "high": 8,
+        "sanctionedCr": 1.68
+      },
+      {
+        "name": "BHIWANI(DC Cum Nodal Officer MPLADS Bhiwani)",
+        "total": 68,
+        "critical": 2,
+        "high": 5,
+        "sanctionedCr": 0.78
+      },
+      {
+        "name": "MAHENDRAGARH(DEPUTY COMMISSIONER MAHENDRAGARH_IDA)",
+        "total": 40,
+        "critical": 3,
+        "high": 3,
+        "sanctionedCr": 0.63
+      },
+      {
+        "name": "SIRSA(DEPUTY COMMISSIONER SIRSA_IDA)",
+        "total": 40,
+        "critical": 1,
+        "high": 0,
+        "sanctionedCr": 0.45
+      }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "code": "HP",
+    "totalWorks": 592,
+    "activeWorks": 209,
+    "completedWorks": 383,
+    "recommendedWorks": 0,
+    "criticalWorks": 16,
+    "highRiskWorks": 85,
+    "mediumRiskWorks": 313,
+    "lowRiskWorks": 178,
+    "pendingVerification": 7,
+    "sanctionedCrores": 8.83,
+    "expenditureCrores": 4.53,
+    "utilizationPercent": 51.3,
+    "topDistricts": [
+      {
+        "name": "KANGRA(DEPUTY COMMISSIONER KANGRA_IDA)",
+        "total": 228,
+        "critical": 8,
+        "high": 37,
+        "sanctionedCr": 2.96
+      },
+      {
+        "name": "SIRMAUR(DEPUTY COMMISSIONER SIRMOUR_IDA)",
+        "total": 93,
+        "critical": 1,
+        "high": 15,
+        "sanctionedCr": 1.49
+      },
+      {
+        "name": "CHAMBA(DEPUTY COMMISSIONER CHAMBA_IDA)",
+        "total": 70,
+        "critical": 2,
+        "high": 10,
+        "sanctionedCr": 1.28
+      },
+      {
+        "name": "MANDI(DEPUTY COMMISSIONER MANDI_IDA)",
+        "total": 54,
+        "critical": 2,
+        "high": 5,
+        "sanctionedCr": 0.51
+      },
+      {
+        "name": "SHIMLA(DEPUTY COMMISSIONER SHIMLA_IDA)",
+        "total": 50,
+        "critical": 0,
+        "high": 11,
+        "sanctionedCr": 0.75
+      },
+      {
+        "name": "SOLAN(DEPUTY COMMISSIONER SOLAN_IDA)",
+        "total": 45,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.89
+      },
+      {
+        "name": "KULLU(DEPUTY COMMISSIONER KULLU_IDA)",
+        "total": 12,
+        "critical": 2,
+        "high": 3,
+        "sanctionedCr": 0.87
+      },
+      {
+        "name": "HAMIRPUR(DEPUTY COMMISSIONER HAMIRPUR_IDA)",
+        "total": 28,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.03
+      },
+      {
+        "name": "UNA(DEPUTY COMMISSIOENR UNA_IDA)",
+        "total": 9,
+        "critical": 1,
+        "high": 0,
+        "sanctionedCr": 0.06
+      },
+      {
+        "name": "BILASPUR(DEPUTY COMMISSIONER, BILASPUR)",
+        "total": 2,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0
+      }
+    ]
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "code": "JK",
+    "totalWorks": 401,
+    "activeWorks": 49,
+    "completedWorks": 352,
+    "recommendedWorks": 0,
+    "criticalWorks": 10,
+    "highRiskWorks": 55,
+    "mediumRiskWorks": 194,
+    "lowRiskWorks": 142,
+    "pendingVerification": 10,
+    "sanctionedCrores": 8.79,
+    "expenditureCrores": 8.31,
+    "utilizationPercent": 94.5,
+    "topDistricts": [
+      {
+        "name": "KATHUA(DISTRICT DEVELOPMENT COMMISSIONER KATHUA_IDA)",
+        "total": 132,
+        "critical": 0,
+        "high": 18,
+        "sanctionedCr": 2.15
+      },
+      {
+        "name": "JAMMU(DEPUTY COMMISSIONER JAMMU_IDA)",
+        "total": 65,
+        "critical": 1,
+        "high": 12,
+        "sanctionedCr": 2.71
+      },
+      {
+        "name": "SRINAGAR(DEPUTY COMMISSIONER SRINAGAR_IDA)",
+        "total": 33,
+        "critical": 3,
+        "high": 9,
+        "sanctionedCr": 0.31
+      },
+      {
+        "name": "UDHAMPUR(Deputy Commissioner Udhampur_IDA)",
+        "total": 34,
+        "critical": 0,
+        "high": 6,
+        "sanctionedCr": 0.65
+      },
+      {
+        "name": "DODA(Deputy Commissioner Doda_IDA)",
+        "total": 12,
+        "critical": 2,
+        "high": 2,
+        "sanctionedCr": 0.3
+      },
+      {
+        "name": "RAMBAN(Deputy Commissioner Ramban_IDA)",
+        "total": 21,
+        "critical": 1,
+        "high": 2,
+        "sanctionedCr": 0.36
+      },
+      {
+        "name": "KUPWARA(Deputy Commissioner Kupwara_IDA)",
+        "total": 19,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "PULWAMA(Deputy Commissioner Pulwama_IDA)",
+        "total": 23,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "ANANTNAG(DEPUTY COMMISSIONER ANANTNAG_IDA)",
+        "total": 8,
+        "critical": 1,
+        "high": 1,
+        "sanctionedCr": 1.53
+      },
+      {
+        "name": "RAJOURI(Deputy Commissioner Rajouri_IDA)",
+        "total": 7,
+        "critical": 1,
+        "high": 1,
+        "sanctionedCr": 0.49
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "code": "UK",
+    "totalWorks": 323,
+    "activeWorks": 137,
+    "completedWorks": 176,
+    "recommendedWorks": 10,
+    "criticalWorks": 34,
+    "highRiskWorks": 84,
+    "mediumRiskWorks": 91,
+    "lowRiskWorks": 114,
+    "pendingVerification": 11,
+    "sanctionedCrores": 6.54,
+    "expenditureCrores": 3.13,
+    "utilizationPercent": 47.9,
+    "topDistricts": [
+      {
+        "name": "NAINITAL(DISTRICT MAGISTRATE NAINITAL_IDA)",
+        "total": 95,
+        "critical": 19,
+        "high": 36,
+        "sanctionedCr": 1.83
+      },
+      {
+        "name": "DEHRADUN(DISTRICT MAGISTRATE DEHRADUN_IDA)",
+        "total": 83,
+        "critical": 4,
+        "high": 8,
+        "sanctionedCr": 1.25
+      },
+      {
+        "name": "ALMORA(DISTRICT MAGISTRATE ALMORA_IDA)",
+        "total": 30,
+        "critical": 4,
+        "high": 14,
+        "sanctionedCr": 0.67
+      },
+      {
+        "name": "Udham Singh Nagar(DISTRICT MAGISTRATE UDHAMSINGH NAGAR_IDA)",
+        "total": 53,
+        "critical": 1,
+        "high": 10,
+        "sanctionedCr": 0.62
+      },
+      {
+        "name": "TEHRI GARHWAL(DISTRICT MAGISTRATE TEHRI GARHWAL_IDA)",
+        "total": 27,
+        "critical": 4,
+        "high": 3,
+        "sanctionedCr": 1.46
+      },
+      {
+        "name": "BAGESHWAR(DISTRICT MAGISTRATE BAGESHWAR_IDA)",
+        "total": 11,
+        "critical": 1,
+        "high": 6,
+        "sanctionedCr": 0.21
+      },
+      {
+        "name": "AGRA(DISTRICT MAGISTRAE AGRA_IDA)",
+        "total": 15,
+        "critical": 1,
+        "high": 2,
+        "sanctionedCr": 0.5
+      },
+      {
+        "name": "Uttarkashi(DISTRICT COLLECTOR UTTARKASHI_IDA)",
+        "total": 6,
+        "critical": 0,
+        "high": 5,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "PAURI GARHWAL(DISTRICT MAGISTRATE PAURI GARHWAL_IDA)",
+        "total": 1,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "HARIDWAR(DISTRICT MAGISTRATE HARIDWAR_IDA)",
+        "total": 1,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "code": "ML",
+    "totalWorks": 295,
+    "activeWorks": 78,
+    "completedWorks": 217,
+    "recommendedWorks": 0,
+    "criticalWorks": 17,
+    "highRiskWorks": 52,
+    "mediumRiskWorks": 172,
+    "lowRiskWorks": 54,
+    "pendingVerification": 7,
+    "sanctionedCrores": 8.2,
+    "expenditureCrores": 4.53,
+    "utilizationPercent": 55.2,
+    "topDistricts": [
+      {
+        "name": "WEST GARO HILLS(DEPUTY COMMISSIONER WEST GARO HILLS_IDA)",
+        "total": 94,
+        "critical": 2,
+        "high": 8,
+        "sanctionedCr": 2.81
+      },
+      {
+        "name": "EAST KHASI HILLS(Deputy Commissioner, East Khasi Hills District)",
+        "total": 31,
+        "critical": 4,
+        "high": 7,
+        "sanctionedCr": 1.43
+      },
+      {
+        "name": "SOUTH GARO HILLS(DEPUTY COMMISSIONER BAGHMARA_IDA)",
+        "total": 10,
+        "critical": 8,
+        "high": 0,
+        "sanctionedCr": 0.23
+      },
+      {
+        "name": "RI BHOI(DEPUTY COMMISSIONER RIBHOI NONGPOH_IDA)",
+        "total": 46,
+        "critical": 1,
+        "high": 8,
+        "sanctionedCr": 1.1
+      },
+      {
+        "name": "NORTH GARO HILLS(DEPUTY COMMISSIONER NORTH GARO HILLS RESUBELPARA_IDA)",
+        "total": 28,
+        "critical": 0,
+        "high": 15,
+        "sanctionedCr": 0.28
+      },
+      {
+        "name": "WEST JAINTIA HILLS(DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA)",
+        "total": 20,
+        "critical": 1,
+        "high": 4,
+        "sanctionedCr": 0.53
+      },
+      {
+        "name": "EASTERN WEST KHASI HILLS(DEPUTY COMMISSIONER EASTERN WEST KHASI HILLS MAIRANG_IDA)",
+        "total": 9,
+        "critical": 1,
+        "high": 6,
+        "sanctionedCr": 0.29
+      },
+      {
+        "name": "EAST JAINTIA HILLS(DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA)",
+        "total": 14,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.49
+      },
+      {
+        "name": "WEST KHASI HILLS(DEPUTY COMMISSIONER WEST KHASI HILLS NONGSTOIN_IDA)",
+        "total": 11,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.37
+      },
+      {
+        "name": "SOUTH WEST GARO HILLS(DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA)",
+        "total": 14,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.2
+      }
+    ]
+  },
+  {
+    "state": "Delhi",
+    "code": "DL",
+    "totalWorks": 230,
+    "activeWorks": 13,
+    "completedWorks": 217,
+    "recommendedWorks": 0,
+    "criticalWorks": 5,
+    "highRiskWorks": 13,
+    "mediumRiskWorks": 54,
+    "lowRiskWorks": 158,
+    "pendingVerification": 5,
+    "sanctionedCrores": 4.7,
+    "expenditureCrores": 3.35,
+    "utilizationPercent": 71.3,
+    "topDistricts": [
+      {
+        "name": "SOUTH(COMMISSIONER SOUTH)",
+        "total": 71,
+        "critical": 2,
+        "high": 2,
+        "sanctionedCr": 0.54
+      },
+      {
+        "name": "EAST(COMMISSIONER EAST)",
+        "total": 55,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 0.92
+      },
+      {
+        "name": "NORTH WEST(COMMISSIONER NORTH WEST)",
+        "total": 28,
+        "critical": 1,
+        "high": 6,
+        "sanctionedCr": 1.46
+      },
+      {
+        "name": "NORTH(COMMISSIONER MCD NORTH_IDA)",
+        "total": 23,
+        "critical": 1,
+        "high": 0,
+        "sanctionedCr": 0.44
+      },
+      {
+        "name": "SOUTH WEST(COMMISSIONER MCD SOUTH WEST)",
+        "total": 24,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 0.56
+      },
+      {
+        "name": "CENTRAL(COMMISSIONER MCD (CENTRAL DISTRICT))",
+        "total": 18,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.43
+      },
+      {
+        "name": "South East(COMMISSIONER MCD SOUTH EAST_IDA)",
+        "total": 1,
+        "critical": 1,
+        "high": 0,
+        "sanctionedCr": 0.2
+      },
+      {
+        "name": "WEST(COMMISSIONER MCD WEST)",
+        "total": 10,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.16
+      }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "code": "AR",
+    "totalWorks": 221,
+    "activeWorks": 1,
+    "completedWorks": 220,
+    "recommendedWorks": 0,
+    "criticalWorks": 3,
+    "highRiskWorks": 53,
+    "mediumRiskWorks": 46,
+    "lowRiskWorks": 119,
+    "pendingVerification": 3,
+    "sanctionedCrores": 4.9,
+    "expenditureCrores": 10.03,
+    "utilizationPercent": 204.7,
+    "topDistricts": [
+      {
+        "name": "EAST SIANG(Deputy Commisioner East Siang_IDA)",
+        "total": 45,
+        "critical": 0,
+        "high": 13,
+        "sanctionedCr": 1.78
+      },
+      {
+        "name": "PAPUM PARE(DEPUTY COMMISSIONER PAPUM PARE_IDA)",
+        "total": 28,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "NAMSAI(Deputy Commisioner Namsai_IDA)",
+        "total": 9,
+        "critical": 0,
+        "high": 8,
+        "sanctionedCr": 0.65
+      },
+      {
+        "name": "LOWER DIBANG VALLEY(Deputy Commisioner Lower Dibang Valley_IDA)",
+        "total": 18,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 0.71
+      },
+      {
+        "name": "SIANG(Deputy Commisioner Siang_IDA)",
+        "total": 11,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.2
+      },
+      {
+        "name": "LOWER SUBANSIRI(Deputy Commissioner Lower Subansir_IDA)",
+        "total": 10,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "LOHIT(DEPUTY COMMISSIONER LOHIT_IDA)",
+        "total": 5,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 0.26
+      },
+      {
+        "name": "UPPER SUBANSIRI(Deputy Commisioner Upper Subansiri_IDA)",
+        "total": 13,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "WEST SIANG(DEPUTY COMMISSIONER, WEST SIANG (IDA))",
+        "total": 10,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "ANJAW(Deputy Commisioner Anjaw_IDA)",
+        "total": 2,
+        "critical": 1,
+        "high": 1,
+        "sanctionedCr": 0.4
+      }
+    ]
+  },
+  {
+    "state": "Mizoram",
+    "code": "MZ",
+    "totalWorks": 135,
+    "activeWorks": 1,
+    "completedWorks": 134,
+    "recommendedWorks": 0,
+    "criticalWorks": 0,
+    "highRiskWorks": 53,
+    "mediumRiskWorks": 75,
+    "lowRiskWorks": 7,
+    "pendingVerification": 0,
+    "sanctionedCrores": 4.5,
+    "expenditureCrores": 2.4,
+    "utilizationPercent": 53.3,
+    "topDistricts": [
+      {
+        "name": "MAMIT(DEPUTY COMMISSIONER MAMIT)",
+        "total": 34,
+        "critical": 0,
+        "high": 14,
+        "sanctionedCr": 1.35
+      },
+      {
+        "name": "KOLASIB(Deputy Commissioner Kolasib)",
+        "total": 13,
+        "critical": 0,
+        "high": 12,
+        "sanctionedCr": 0.95
+      },
+      {
+        "name": "Siaha(Deputy Commissioner, Siaha)",
+        "total": 19,
+        "critical": 0,
+        "high": 10,
+        "sanctionedCr": 0.6
+      },
+      {
+        "name": "AIZAWL(DEPUTY COMMISSIONER AIZAWL_IDA)",
+        "total": 34,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 1.03
+      },
+      {
+        "name": "CHAMPHAI(DEPUTY COMMISIONER, CHAMPHAI)",
+        "total": 8,
+        "critical": 0,
+        "high": 8,
+        "sanctionedCr": 0.32
+      },
+      {
+        "name": "LUNGLEI(Deputy Commissioner, Lunglei)",
+        "total": 17,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 0.25
+      },
+      {
+        "name": "SERCHHIP(Deputy Commissioner Serchhip)",
+        "total": 6,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "SAITUAL(Dy. Commissioners Office, Saitual)",
+        "total": 3,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "KHAWZAWL(Office of the Deputy Commissioner, Khawzawl)",
+        "total": 1,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      }
+    ]
+  },
+  {
+    "state": "Goa",
+    "code": "GA",
+    "totalWorks": 99,
+    "activeWorks": 53,
+    "completedWorks": 45,
+    "recommendedWorks": 1,
+    "criticalWorks": 2,
+    "highRiskWorks": 16,
+    "mediumRiskWorks": 51,
+    "lowRiskWorks": 30,
+    "pendingVerification": 2,
+    "sanctionedCrores": 6.8,
+    "expenditureCrores": 2.24,
+    "utilizationPercent": 32.9,
+    "topDistricts": [
+      {
+        "name": "SOUTH GOA(DISTRICT COLLECTOR SOUTH GOA_IDA)",
+        "total": 77,
+        "critical": 1,
+        "high": 12,
+        "sanctionedCr": 5.67
+      },
+      {
+        "name": "NORTH GOA(DISTRICT COLLECTOR NORTH GOA_IDA)",
+        "total": 22,
+        "critical": 1,
+        "high": 4,
+        "sanctionedCr": 1.13
+      }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "code": "NL",
+    "totalWorks": 53,
+    "activeWorks": 15,
+    "completedWorks": 38,
+    "recommendedWorks": 0,
+    "criticalWorks": 2,
+    "highRiskWorks": 14,
+    "mediumRiskWorks": 23,
+    "lowRiskWorks": 14,
+    "pendingVerification": 2,
+    "sanctionedCrores": 9.8,
+    "expenditureCrores": 0.05,
+    "utilizationPercent": 0.5,
+    "topDistricts": [
+      {
+        "name": "DIMAPUR(DEPUTY COMMISSIONER DIMAPUR_IDA)",
+        "total": 16,
+        "critical": 0,
+        "high": 5,
+        "sanctionedCr": 5.35
+      },
+      {
+        "name": "MOKOKCHUNG(Deputy Commissioner Mokokchung_IDA)",
+        "total": 19,
+        "critical": 1,
+        "high": 0,
+        "sanctionedCr": 2.05
+      },
+      {
+        "name": "KOHIMA(DEPUTY COMMISIONER_7)",
+        "total": 5,
+        "critical": 1,
+        "high": 3,
+        "sanctionedCr": 1.31
+      },
+      {
+        "name": "ZUNHEBOTO(Deputy Commissioner Zunheboto_IDA)",
+        "total": 3,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.45
+      },
+      {
+        "name": "Chumoukedima(Deputy Commissioner Chumoukedima_IDA)",
+        "total": 6,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.51
+      },
+      {
+        "name": "PEREN(Deputy Commissioner Peren_IDA)",
+        "total": 2,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 0.03
+      },
+      {
+        "name": "MON(Deputy Commissioner Mon_IDA)",
+        "total": 1,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.11
+      },
+      {
+        "name": "PHEK(Deputy Commissioner Phek_IDA)",
+        "total": 1,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "code": "TR",
+    "totalWorks": 43,
+    "activeWorks": 23,
+    "completedWorks": 20,
+    "recommendedWorks": 0,
+    "criticalWorks": 5,
+    "highRiskWorks": 16,
+    "mediumRiskWorks": 9,
+    "lowRiskWorks": 13,
+    "pendingVerification": 5,
+    "sanctionedCrores": 13.62,
+    "expenditureCrores": 5.64,
+    "utilizationPercent": 41.4,
+    "topDistricts": [
+      {
+        "name": "Dhalai(DISTRICT MAGISTRATE DHALAI_IDA)",
+        "total": 16,
+        "critical": 1,
+        "high": 10,
+        "sanctionedCr": 8.34
+      },
+      {
+        "name": "West Tripura(DISTRICT MAGISTRATE WEST TRIPURA_IDA)",
+        "total": 7,
+        "critical": 2,
+        "high": 1,
+        "sanctionedCr": 1.21
+      },
+      {
+        "name": "Sepahijala(DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA)",
+        "total": 3,
+        "critical": 2,
+        "high": 1,
+        "sanctionedCr": 1.64
+      },
+      {
+        "name": "Khowai(DISTRICT MAGISTRATE and COLLECTOR KHOWAI_IDA)",
+        "total": 13,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "Gomati(DM OFFICE GOMATI MPLADS)",
+        "total": 3,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 1.85
+      },
+      {
+        "name": "North Tripura(DISTRICT MAGISTRATE and COLLECTOR NORTH TRIPURA DISTRICT_IDA)",
+        "total": 1,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.58
+      }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "code": "MN",
+    "totalWorks": 42,
+    "activeWorks": 6,
+    "completedWorks": 36,
+    "recommendedWorks": 0,
+    "criticalWorks": 2,
+    "highRiskWorks": 13,
+    "mediumRiskWorks": 15,
+    "lowRiskWorks": 12,
+    "pendingVerification": 2,
+    "sanctionedCrores": 7.71,
+    "expenditureCrores": 0.2,
+    "utilizationPercent": 2.6,
+    "topDistricts": [
+      {
+        "name": "IMPHAL WEST(Deputy Commissioner Imphal West MPLADS_IDA)",
+        "total": 15,
+        "critical": 1,
+        "high": 5,
+        "sanctionedCr": 1.34
+      },
+      {
+        "name": "CHURACHANDPUR(Deputy Commissioner Churachandpur MPLADS_ida)",
+        "total": 13,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 2.28
+      },
+      {
+        "name": "THOUBAL(Deputy Commissioner Thoubal MPLADS_ida)",
+        "total": 3,
+        "critical": 1,
+        "high": 1,
+        "sanctionedCr": 0.79
+      },
+      {
+        "name": "IMPHAL EAST(Deputy Commissioner Imphal East_IDA)",
+        "total": 3,
+        "critical": 0,
+        "high": 2,
+        "sanctionedCr": 1.1
+      },
+      {
+        "name": "BISHNUPUR(Deputy Commissioner Bishnupur_ida)",
+        "total": 3,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.9
+      },
+      {
+        "name": "UKHRUL(Deputy Commissioner Ukhrul_ida)",
+        "total": 1,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 1.1
+      },
+      {
+        "name": "KAMJONG(Deputy Commissioner Kamjong MPLADS_ida)",
+        "total": 2,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.2
+      },
+      {
+        "name": "KAKCHING(Deputy Commissioner Kakching_ida)",
+        "total": 2,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0
+      }
+    ]
+  },
+  {
+    "state": "Sikkim",
+    "code": "SK",
+    "totalWorks": 39,
+    "activeWorks": 1,
+    "completedWorks": 38,
+    "recommendedWorks": 0,
+    "criticalWorks": 0,
+    "highRiskWorks": 19,
+    "mediumRiskWorks": 9,
+    "lowRiskWorks": 11,
+    "pendingVerification": 0,
+    "sanctionedCrores": 4.89,
+    "expenditureCrores": 2.11,
+    "utilizationPercent": 43.1,
+    "topDistricts": [
+      {
+        "name": "Gangtok(DISTRICT COLLECTOR EAST DISTRICT_IDA)",
+        "total": 15,
+        "critical": 0,
+        "high": 9,
+        "sanctionedCr": 2.45
+      },
+      {
+        "name": "Soreng(DISTRICT COLLECTOR SORENG_IDA)",
+        "total": 8,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0
+      },
+      {
+        "name": "Gyalshing(DISTRICT COLLECTOR GYALSHING_IDA)",
+        "total": 4,
+        "critical": 0,
+        "high": 4,
+        "sanctionedCr": 1.2
+      },
+      {
+        "name": "Mangan(DISTRICT COLLECTOR MANGAN_IDA)",
+        "total": 6,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.94
+      },
+      {
+        "name": "Pakyong(DISTRICT COLLECTOR PAKYONG_IDA)",
+        "total": 6,
+        "critical": 0,
+        "high": 0,
+        "sanctionedCr": 0.3
+      }
+    ]
+  },
+  {
+    "state": "Chandigarh",
+    "code": "CH",
+    "totalWorks": 33,
+    "activeWorks": 2,
+    "completedWorks": 31,
+    "recommendedWorks": 0,
+    "criticalWorks": 0,
+    "highRiskWorks": 5,
+    "mediumRiskWorks": 13,
+    "lowRiskWorks": 15,
+    "pendingVerification": 0,
+    "sanctionedCrores": 0.82,
+    "expenditureCrores": 0.52,
+    "utilizationPercent": 63.4,
+    "topDistricts": [
+      {
+        "name": "CHANDIGARH(DEPUTY COMMISSIONER ZILLA PARISHAD CHANDIGARH_IDA)",
+        "total": 33,
+        "critical": 0,
+        "high": 5,
+        "sanctionedCr": 0.82
+      }
+    ]
+  },
+  {
+    "state": "Puducherry",
+    "code": "PY",
+    "totalWorks": 16,
+    "activeWorks": 3,
+    "completedWorks": 13,
+    "recommendedWorks": 0,
+    "criticalWorks": 2,
+    "highRiskWorks": 8,
+    "mediumRiskWorks": 6,
+    "lowRiskWorks": 0,
+    "pendingVerification": 2,
+    "sanctionedCrores": 2.93,
+    "expenditureCrores": 0.93,
+    "utilizationPercent": 31.7,
+    "topDistricts": [
+      {
+        "name": "Puducherry(PROJECT DIRECTOR RDA PUDUCHERRY_IDA)",
+        "total": 16,
+        "critical": 2,
+        "high": 8,
+        "sanctionedCr": 2.93
+      }
+    ]
+  },
+  {
+    "state": "Andaman & Nicobar",
+    "code": "IN",
+    "totalWorks": 3,
+    "activeWorks": 3,
+    "completedWorks": 0,
+    "recommendedWorks": 0,
+    "criticalWorks": 0,
+    "highRiskWorks": 3,
+    "mediumRiskWorks": 0,
+    "lowRiskWorks": 0,
+    "pendingVerification": 0,
+    "sanctionedCrores": 0.74,
+    "expenditureCrores": 0.19,
+    "utilizationPercent": 25.7,
+    "topDistricts": [
+      {
+        "name": "SOUTH ANDAMANS(Implementing District Authority(SA))",
+        "total": 3,
+        "critical": 0,
+        "high": 3,
+        "sanctionedCr": 0.74
+      }
+    ]
+  },
+  {
+    "state": "Lakshadweep",
+    "code": "LD",
+    "totalWorks": 3,
+    "activeWorks": 1,
+    "completedWorks": 2,
+    "recommendedWorks": 0,
+    "criticalWorks": 0,
+    "highRiskWorks": 1,
+    "mediumRiskWorks": 0,
+    "lowRiskWorks": 2,
+    "pendingVerification": 0,
+    "sanctionedCrores": 0.51,
+    "expenditureCrores": 0,
+    "utilizationPercent": 0,
+    "topDistricts": [
+      {
+        "name": "LAKSHADWEEP DISTRICT(COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA)",
+        "total": 3,
+        "critical": 0,
+        "high": 1,
+        "sanctionedCr": 0.51
+      }
+    ]
+  }
+]

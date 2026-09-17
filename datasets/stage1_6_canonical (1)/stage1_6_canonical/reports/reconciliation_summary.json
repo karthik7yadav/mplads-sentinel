@@ -1,0 +1,52 @@
+{
+  "raw_row_counts": {
+    "recommended": {
+      "stage1": 8001,
+      "stage1_5": 20001
+    },
+    "sanctioned": {
+      "stage1": 7001,
+      "stage1_5": 25001
+    },
+    "expenditure": {
+      "stage1": 23001,
+      "stage1_5": 33001
+    },
+    "completed": {
+      "stage1": 33871,
+      "stage1_5": 20001
+    },
+    "allocation": {
+      "stage1": 544,
+      "stage1_5": 544
+    }
+  },
+  "unique_work_ids_by_source_package": {
+    "stage1": 54900,
+    "stage1_5": 46616,
+    "common": 28841,
+    "stage1_only": 26059,
+    "stage1_5_only": 17775
+  },
+  "canonical_unique_work_ids": 72675,
+  "duplicate_events_removed": 829,
+  "possible_conflicting_events_flagged": 3510,
+  "conflicts_found_total": 3510,
+  "conflicts_by_dataset": {
+    "expenditure_event": 3510
+  },
+  "unresolved_work_id_rows": 759,
+  "unresolved_by_dataset": {
+    "recommended": 753,
+    "sanctioned": 2,
+    "completed": 2,
+    "expenditure": 2
+  },
+  "records_with_missing_recommended_date": 45426,
+  "records_with_missing_sanction_date": 0,
+  "records_with_missing_recommended_amount": 45429,
+  "completion_coverage": 33870,
+  "expenditure_coverage": 35984,
+  "recommendation_coverage": 27249,
+  "sanction_coverage": 32000
+}

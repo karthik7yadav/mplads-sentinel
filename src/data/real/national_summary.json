@@ -1,0 +1,36 @@
+{
+  "totalWorks": 72675,
+  "activeWorks": 15372,
+  "completedWorks": 33870,
+  "recommendedWorks": 913,
+  "criticalWorks": 1835,
+  "highRiskWorks": 12952,
+  "mediumRiskWorks": 25988,
+  "lowRiskWorks": 31900,
+  "pendingVerification": 284,
+  "totalSanctionedCrores": 1648.35,
+  "totalExpenditureCrores": 1684.06,
+  "totalStatesMonitored": 34,
+  "stateMappedSummary": {
+    "works": 50184,
+    "criticalWorks": 1800,
+    "highRiskWorks": 11382,
+    "mediumRiskWorks": 22211,
+    "lowRiskWorks": 14791,
+    "activeWorks": 15372,
+    "sanctionedCrores": 1648.35,
+    "expenditureCrores": 637.71
+  },
+  "unmappedCohortSummary": {
+    "works": 22491,
+    "criticalWorks": 35,
+    "highRiskWorks": 1570,
+    "mediumRiskWorks": 3777,
+    "lowRiskWorks": 17109,
+    "activeWorks": 0,
+    "sanctionedCrores": 0,
+    "expenditureCrores": 1046.35
+  },
+  "lastRefreshed": "2026-09-08T00:00:00Z",
+  "dataEngine": "Stage 1.6 Canonical + Stage 2.1.1 Risk Engine + Stage 2.2.1 Decision Intelligence"
+}

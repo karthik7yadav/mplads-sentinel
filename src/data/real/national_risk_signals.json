@@ -1,0 +1,53 @@
+{
+  "totalSignals": 103414,
+  "categories": [
+    {
+      "label": "Data Consistency / MIS",
+      "type": "data_consistency",
+      "count": 54347,
+      "pct": "52.6%",
+      "color": "text-slate-700 bg-slate-100 border-slate-200",
+      "description": "Expenditure without sanction record or conflicting event fields"
+    },
+    {
+      "label": "Lifecycle Delays",
+      "type": "lifecycle_delay",
+      "count": 26562,
+      "pct": "25.7%",
+      "color": "text-amber-700 bg-amber-50 border-amber-200",
+      "description": "Sanctioned or recommended without progress over expected timeframe"
+    },
+    {
+      "label": "Peer Financial Outliers",
+      "type": "peer_financial",
+      "count": 10190,
+      "pct": "9.9%",
+      "color": "text-rose-700 bg-rose-50 border-rose-200",
+      "description": "Statistically anomalous outlay/expenditure vs comparable category works"
+    },
+    {
+      "label": "Vendor Concentration",
+      "type": "vendor",
+      "count": 4386,
+      "pct": "4.2%",
+      "color": "text-purple-700 bg-purple-50 border-purple-200",
+      "description": "Single vendor accounting for excessive share of disbursed funds"
+    },
+    {
+      "label": "Statistical Anomalies",
+      "type": "statistical",
+      "count": 3616,
+      "pct": "3.5%",
+      "color": "text-blue-700 bg-blue-50 border-blue-200",
+      "description": "Extreme overall ratio deviations (expenditure/sanction robust z-score)"
+    },
+    {
+      "label": "Peer Duration & Events",
+      "type": "peer_duration_payment",
+      "count": 4313,
+      "pct": "4.2%",
+      "color": "text-yellow-700 bg-yellow-50 border-yellow-200",
+      "description": "Atypical payment frequency or sanction-to-completion duration"
+    }
+  ]
+}
